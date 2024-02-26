@@ -1,0 +1,63 @@
+# Prefacio {.unnumbered}
+
+Esto es el sitio web de la tesis doctoral.
+
+Aquí se irá escribiendo la tesis.
+
+::: {.callout-tip}
+Para poder hacer comentarios a la misma es necesario crearse una cuenta en:
+<https://web.hypothes.is/start/>
+
+En la barra lateral derecho puede verse que sale un *widget* que va a permitir conectar su cuenta
+para realizar todas las anotaciones que sean necesarias.
+De esta manera el autor va a poder ver las anotaciones y también realizar comentarios sobre ella.
+:::
+
+El posible outline de la tesis es el siguiente:
+
+## Posible outline de tesis
+
+1. Introducción 
+	* Objetivo de la tesis
+	* Metodología de la tesis
+	* Importancia del tema a tratar
+	* Esqueleto de cada uno de los capítulos de la tesis
+2. El pragmatismo de Peirce 
+	* Breve historia de Peirce
+	* La máxima pragmática
+	* La noción de comunidad de investigadores
+	* El concepto de inferencia
+	* Las categorias
+	* La lógica como ciencia normativa
+	* La lógica como semiótica
+	* La noción de mente de Peirce
+	* La noción de Diálogo 
+3. La semiótica de Peirce
+	* El signo
+	* Partes del signo
+	* La semiosis
+	* Diálogo en semiótica
+4. Los gráficos existenciales de Peirce
+	* Lógica diagramática
+	* Sistema alfa
+	* Sistema beta
+	* Sistema gamma
+5. La dialógica de Lorenzen y Lorenz:
+	* Intención de la dialógica
+	* Sistema lógico de Lorenzen y Lorenz
+	* Aportes de la escuela de Lille
+6. Interpretación semiótica de la dialógica
+7. Traducción de los gráficos existenciales en dialógica
+	* Traducciones lógicas
+	* Aplicación de la traducción lógica en los gráficos
+	* Resultados
+8. Conclusiones
+9. Apendice:
+	* Lógica trivaluada
+	* GTS
+
+Si los capítulos no aparecen en la barra lateral izquierda es porque todavía no tienen nada relecante para ser mostrado de momento.
+
+Muchas gracias por leer esta tesis y contribuir a ella.
+
+Ivan V. Gavriloff

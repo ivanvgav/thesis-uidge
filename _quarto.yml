@@ -1,0 +1,35 @@
+project:
+  type: book
+
+book:
+  title: "Una interpretación dialógica de los gráficos existenciales de C. S. Peirce"
+  subtitle: "Tesis de Doctorado para el Doctorado en Filosofía de la UBA"
+  author: "Gavriloff, Ivan Vladimir"
+  date: "2/19/2024"
+  chapters:
+    - index.qmd
+    # - agradecimientos.md
+    # - 01-intro.md
+    # - 02-pragmatismo.md
+    # - 03-semiotica.md
+    # - 04-ge.md
+    # - 05-dialogica.md
+    - 06-interpretacion.md
+    # - 07-traduccion.md
+    # - 08-conclusiones.md
+    # - references.qmd
+
+# bibliography: biblio.bib
+lang: es
+
+format:
+  html:
+    theme: litera
+    comments:
+      hypothesis: true
+        # theme: clean
+  pdf:
+    documentclass: scrreprt
+
+
+
