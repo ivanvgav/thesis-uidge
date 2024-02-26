@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Una interpretación dialógica de los gráficos existenciales de C. S. Peirce"
@@ -28,8 +29,8 @@ format:
     comments:
       hypothesis: true
         # theme: clean
-  pdf:
-    documentclass: scrreprt
+  # pdf:
+  #   documentclass: scrreprt
 
 
 
