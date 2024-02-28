@@ -127,8 +127,55 @@ Por ejemplo, se podría encontrar ciertas similitudes con las tablas de verdad.
 para llevar a cabo un análisis de todas las conectivas lógicas pero que no fue publicado,
 por ello se le atibuye la utlización de las tablas de verdad a Wittgenstein aunque este
 las presente años después de haberlas realizado el propio Peirce.[TODO: buscar refrencias de esto]]
-@devjoska2012 considera a las tablas como diagramas [TODO: Volver a leer para encontrar una jsutificación de ello]
+@devjoska2012 considera a las tablas como diagramas [TODO: Volver a leer para encontrar una justificación de ello]
 y, aunque Peirce no haya realizado una clasificación de diagramas, su definición de deducción [TODO: agregar referencia]
 permite entender a la tabla como un diagrama.
 Es decir, entendida de una manera amplia y laxa la dialógica es en algún sentido una lógica diagramática.
+El dialógico trabaja con un diagrama (la tabla) realizando modificaciones a la misma
+y luego extrae ciertas conclusiones que, *prima facie*,
+no se encuentraban en el estado inicial del diagrama.
+Recordemos que la tabla que se nos presenta como está arriba es la finalización de un proceso dialógico.
+Cuando el dialógico comienza con el juego entre el proponente y el oponente solo cuenta con la tesis,
+las reglas estructurales y las reglas particulares.
+Es decir, la tabla es solo el producto final de la deducción.
+En ella podemos ver los signos de las acciones llevadas a cabo por el dialógico.
+Es interesante destacar que al momento de llevar a cabo el diagrama,
+las reglas particulares y estructurales son consideradas posibilitadoras de la
+confección del diagrama.
+Son reglas que indican el comportamiento de las conectivas lógicas
+y de cómo se *debe* jugar el diálogo, respectivamente.
+Sin las reglas particulares el diálogo no puede ni siquiera surgir
+y sin las reglas estructurales el diálogo no tendría límites,
+haciendolo completamente trivial y sin propósito alguno.
+
+La idea de que el diálogo muestra una deducción es interesante.
+Comparemoslo con la idea de demostración *estandar* y con los gráficos exisntenciales.
+En la demostración tenemos una secuencia de proposiciones una debajo de la otra 
+que muestran como a partir de las premisas se llega a la conclusión justificandola
+a partir de axiomas y teoremas del sistema axiomático.
+El lógico puede hacer uso de los teoremas y de los axiomas sin necesidad de haberlos explicitado antes.
+Respecto a los gráficos existenciales,
+estos parten de un estado inicial de gráficos y luego son transformados en la hoja de aseveración por reglas de transformación.
+Quien grafica sabe de dichas reglas acerca de lo que puede y no puede hacer en las áreas pares e impares de los diagramas.
+En contrapartida de la demostración, los gráficos poseen una inconididad operacional [@stejnfel2007] particular
+que permite que uno pueda observar, gracias a esas transformaciones,
+resultados que no se encontraban en el estado inicial del diagrama.
+La dialógica se encuentra en el medio entre una demostración estándar y un gráficos existencial.
+El diagrama dialógico hace uso de las conectivas y de una secuencialidad parecida a la demostración,
+sus reglas (particulares y estructurales) tienen cierta similitud con las reglas de transformación
+debido a que indican cómo y cuando realizar tal movimiento para cada uno de los roles.
+Recordemos que los aspectos icónicos, indexicales y sibólicos son graduales.
+Por lo que podemos decir que respecto de la icnonididad operacional
+los gráficos existenciales se encuentran en el extremo de mayor iconicidad
+mientras que la demostración se encuentra en el otro extremo.
+En el medio de ellas se encuentra el diagrama dialógico.
+Esta característica dialógica es interesante,
+ya que encuentra un punto medio entre los lógicos que descartan la idea de diagrama
+y entre los lógicos que consideran que hay mayores beneficios que contras en la lógica diagramática.
+Aunque @pierce1906 muestre como es que en los gráficos existenciales hay dos roles
+(el grafista y el intérprete)
+al momento de observar el gráfico esto no parece muy claro,
+porque prioriza la iconicidad operacional del diagrama.
+Mientras que la dialógica explicita los movimientos de cada uno de los roles.
+La tabla si permite indicar claramente cuando un rol realiza tal o cual movimiento dentro del juego.
 
