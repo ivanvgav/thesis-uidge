@@ -1,6 +1,6 @@
 ---
 title: "Interpretación semiótica de la dialógica"
-bibliography: "~/Documents/biblio.bib"
+#bibliography: "~/Documents/biblio.bib"
 ---
 
 Dada ya toda la explicación del marco de la semiótica
