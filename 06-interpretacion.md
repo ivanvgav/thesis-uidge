@@ -149,7 +149,7 @@ y sin las reglas estructurales el diálogo no tendría límites,
 haciendolo completamente trivial y sin propósito alguno.
 
 La idea de que el diálogo muestra una deducción es interesante.
-Comparemoslo con la idea de demostración *estandar* y con los gráficos exisntenciales.
+Comparemoslo con la idea de demostración *estandar* y con los gráficos existenciales.
 En la demostración tenemos una secuencia de proposiciones una debajo de la otra 
 que muestran como a partir de las premisas se llega a la conclusión justificandola
 a partir de axiomas y teoremas del sistema axiomático.
@@ -178,4 +178,57 @@ al momento de observar el gráfico esto no parece muy claro,
 porque prioriza la iconicidad operacional del diagrama.
 Mientras que la dialógica explicita los movimientos de cada uno de los roles.
 La tabla si permite indicar claramente cuando un rol realiza tal o cual movimiento dentro del juego.
+Incluso para que no quede ninguna duda,
+coloca a cada movimiento un número desde el 0 hasta que el juego termine.
+A su vez se tiene que insertar otro número para poder hacer referencia de donde proviene
+o a qué jugada responde dicho movimiento.
+En estos dos casos los números tienen la función de índices,
+indican la posición de la jugada,
+en el caso del orden del movimiento
+e indican la procedencia o respuesta del movimiento
+en el caso del otro número.
+Hay ciertas maneras de escribir demostraciones que también consideran estos dos elementos,
+mientras que en los gráficos existenciales no se suele hacer uso de esto.
+Peirce no propuso el uso de índices para indicar linealidad en los gráficos existenciales.
+De hecho, una de las características fundamentales de los gráficos es que 
+al considerar a la hoja de aseveración o a la hoja phémica un elemento del sistema lógico,
+hay una espacialidad que no se considera ni en la demostración ni en la tabla dialógica.
+Estas dos últimas tienen restricciones espaciales de dónde y cómo tienen 
+que disponer de los signos para poder mostrar la validez de los argumentos.
+Aunque la dialógica tiene algo que la demostración no tiene:
+el hecho de explicitar los roles.
+En los roles se puede ver los movimientos explícitos de cómo uno puede llegar a
+comprobar si una tesis tiene una estrategia ganadora,
+es válida o no la tiene.
 
+La idea de los roles es una idea de un poder semiotico importante.
+@peirce1906 ya lo vió presentando a los gráficos existenciales de esta manera.
+^[De hecho tan es así,
+que dentro de la literatura de la *game-theoretic semantics* se lo coloca como predecesesor de la disciplina
+[TODO: agregar referencia]]
+Aunque la intencionalidad de la dialógica no es estrictamente semiótica,
+Lorenzen y Lorenz introducen, a partir de la apelación a la teoría de juegos,
+la semiótica dentro de la lógica formal.
+Algo que Peirce buscaba de manera deliberada.
+Es claro que los roles *no* tienen porque considerarse como personas físicas,
+en eso los dialógicos son explícitos al igual que Peirce [TODO: buscar referencias].
+Esto puede marcar muy bien que los procesos inferenciales son procesos semióticos.
+El juego entre el proponente y el oponente
+^[También entre el grafista y el intérprete en los gráficos existenciales
+y entre el Yo y la Naturaleza en la *game-theoretic semantics*.]
+muestran un proceso de semiósis.
+Entre los ataques y las defensas del proponente y el oponente se produce un proceso de semiosis.
+Ese desdoblamiento en roles es lo que permite trabajar al diagrama,
+sea que lo esté llevando a cabo una sola persona o un grupo de ellas.
+Se ha hablado mucho en la literatura acerca de las posturas del proponente y del oponente
+^[Para indagar en profundidad esto véase @novaes2020.],
+muchos han criticado la idea de que las acciones de los proponentes y oponenetes sean de ataque y defensa.
+Sin embargo las acciones de los roles no han sido vistas desde una perspectiva semiótica,
+¿qué es un ataque, una respuesta, un cuestionamiento?
+Si bien las reglas particulares de cada uno de los sistemas dialógicos otorgan una respuesta a estas preguntas,
+haciendo que cada una de ellas sea una característica del comportamiento de la conectiva lógica,
+no otorga un significado semiótico, sino que se queda en el plano del juego entre ambos roles.
+
+[TODO: hacer un análisis primero que significa semióticamente un ataque, una pregunta y una defensa.
+Ver que se puede sacar de particular de alguna de las reglas,
+pensar en el condicional. Releer a Lorenz sobre esto]
