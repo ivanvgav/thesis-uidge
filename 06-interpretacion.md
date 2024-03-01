@@ -232,3 +232,21 @@ no otorga un significado semiótico, sino que se queda en el plano del juego ent
 [TODO: hacer un análisis primero que significa semióticamente un ataque, una pregunta y una defensa.
 Ver que se puede sacar de particular de alguna de las reglas,
 pensar en el condicional. Releer a Lorenz sobre esto]
+
+Las nociones de proponente y oponente pueden tener alguna connotación de competencia.
+Es decir, alguna noción de que lo que busca uno de los roles (el oponente) es oponerse sin tal o cual.
+Consideramos que es una mirada de alguna antropocéntrica,
+en el sentido de que ni el proponente ni el oponente son personas o agentes materiales.
+Son solo roles dentro del juego del diálogo.
+Esto no quita peso semiótico al diálogo.
+Ante todo permite considerar de una manera más formal las características semióticas de los diálogos.
+Es decir, es posible que esta interpretación dialógica no solo sea para considerar a los agentes humanos,
+sino también para otro tipo de relaciones dialógicas
+^[Estamos pensando en el ejemplo de la relación entre un cliente y un servidor dentro de las ciencias de la computación.
+De hecho, hay trabajos relacionados con la lógica linear y la dialógica, la cual se usa para explicar la relación cliente servidor
+[TODO: Colocar referencias] por lo que también cabría un análisis semiótico en ese caso.]
+expandiendo un poco el entendimiento de dichas relaciones.
+
+Quien postula una tesis es el proponente,
+el oponente se va a encargar de tirar abajo[Cambiar esta expresión] esa tesis.
+
