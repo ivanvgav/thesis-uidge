@@ -249,4 +249,27 @@ expandiendo un poco el entendimiento de dichas relaciones.
 
 Quien postula una tesis es el proponente,
 el oponente se va a encargar de tirar abajo[Cambiar esta expresión] esa tesis.
-
+Durante todo el diálogo los roles tienen, en última instacia,
+la finalidad la existencia (o inexistencia) de una estrategia ganadora.
+Recordemos que los diálogos pueden ser juegos infinitos,
+por lo que las reglas estructurales buscan acortar dicha posibilidad al volverlos juegos finitos.
+Desde la semiótica en general,
+y la semiótica peirceana en particular
+la cuestión de lo finito o infinito tiene sus particularidades.
+Autores como Eco [TODO: buscar referencias] se concentran en la semiosis infinita,
+el proceso semiótico por le cual cualquier signo viene dada de una cadena de interpretantes previas
+y este, a su vez, posiblita una cadena de intepretantes posteriores *posiblemente* infinitos.
+El diálogo dentro del proceso semiótico se encuentra acotado y limitado.
+El proponente y el oponente al ser solo roles y no agentes semióticos estrictamente no poseen necesariamente estas cadenas de interpretantes previos,
+pero dado ciertos diálogos estos podrían generar movimientos que llevan a ser repetidos infinitamente, haciendo una especie de interpretante en falso,
+puesto que el oponente siempre generará el mismo interpretante (un cuestionamiento o un ataque) a lo afirmado por el proponente,
+y éste al responderle, seguirá generando la misma acción una y otra vez.
+Sin embargo, para el Peirce maduro muchas veces esa semiosis infinita si tiene un fin o corte.
+El proceso semiótico si finaliza cuando este concluye en un signo que posee un interpretante final lógico.
+Un ejemplo de esto puede ser un principio lógico como ser le *modus ponens*.
+El *modus ponens* genera el interpretante de que dado un condicional y la afirmación del antecedente,
+necesariamente tenga que afirmarse el consecuente del condicional.
+La finalidad del *modus ponens* es que el agente afirme el consecuente de un condicional teniendo un condicional y la afirmación de su antecedente como premisa.
+Tomo este ejemplo porque el propio Peirce da una justifiación de ello en sus *Cognition series* acerca de la justificación de los principios lógicos.
+En la circularidad de la justificación es que se encuentra el interpretante final lógico, puesto que no hay otra respuesta posible,
+otro interpretante posible.
