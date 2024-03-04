@@ -273,3 +273,42 @@ La finalidad del *modus ponens* es que el agente afirme el consecuente de un con
 Tomo este ejemplo porque el propio Peirce da una justifiación de ello en sus *Cognition series* acerca de la justificación de los principios lógicos.
 En la circularidad de la justificación es que se encuentra el interpretante final lógico, puesto que no hay otra respuesta posible,
 otro interpretante posible.
+^[Si se desea indagar más a fondo acerca de estas cuestiones se debe buscar por el problema de la adopción @krpke2024 y @padro2024.
+Acerca de la postura del autor de esta tesis sobre el problema de la adopción véase @gavriloff2022.]
+
+Volviendo al proceso semiótico que cumplen ambos roles,
+todo aquello que afirme o asevere el proponente y el oponente tiene,
+dentro del juego dialógico,
+su interpretante lógico final establecido por las reglas particulares.
+Cada una de las conectivas lógicas tiene una manera de interpretarse para el proponente y otra para el oponente.
+Esto es de suma importancia.
+Una conectiva lógico es definida si o si por lo que pueden hacer cada uno de los roles.
+No basta con lo que afirma el proponente o el oponente por separado, sino considerada en conjunto.
+Desde el punto de vista de la semiótica,
+como las reglas particulares son consideradas como interpretantes finales lógicos
+y hay dos roles en el diálogo necesariamente,
+cada una de las reglas particulares necesita de la postura del proponente y del oponente para que tenga un sentido completo.
+Cabe destacar que semióticamente esto tiene mucho sentido,
+cuando uno presenta un signo a otro el signo tiene una potencialidad interpretativa la cual va a depender de varios factores:
+contexto, cadena de interpretantes previos, experiencia colateral, entre otros.
+Quien realiza el interpretante de dicho signo puede hacer varias acciones con él.
+En el caso de las reglas particulares,
+no solo éstas indican que es la conectiva y qué hacer con ella,
+sino también cómo hacerlo.
+Por ejemplo con el condicional el proponente afirma el condicional
+y solo puede defenderlo en tanto el oponente le haya concedido el antecedente del mismo.
+Al defenderlo lo que está haciendo es afirmar el consecuente de dicho condicional.
+Es decir en la acción de la defensa del condicional de alguna manera se hace uso del *modus ponens*.
+Se presente un condicional, se afirma el antecedente del mismo y se concluye el consecuente.
+Si bien es cierto que en el diálogo no se va a concluir el diálogo en si mismo,
+a menos que la tesis del proponentes haya sido el propio *modus ponens*,
+sino que el oponente al afirmar el antecedente,
+concede al proponente el movimiento de poder afirmar el consecuente de dicho condicional.
+
+Acerca de las reglas estructurales,
+podemos considerarlas como el *commmon ground* de los roles.
+Esto es así debido a que ninguno de los roles realiza algo que no esté estipulado por dichas reglas.
+En este sentido, las reglas estructurales son las reglas que otorgan cooperación a los roles.
+De no ser por estas reglas el diálogo no podían llevarse a cabo como tal
+y no se tendría las limitaciones necesarias para poder analizar las tesis realizadas por el proponente.
+Afirmamos que es el *common ground* de los roles porque dentro del diálogo no se explicita en ningún momento alguna de las reglas estructurales.
