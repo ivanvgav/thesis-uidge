@@ -312,3 +312,50 @@ En este sentido, las reglas estructurales son las reglas que otorgan cooperació
 De no ser por estas reglas el diálogo no podían llevarse a cabo como tal
 y no se tendría las limitaciones necesarias para poder analizar las tesis realizadas por el proponente.
 Afirmamos que es el *common ground* de los roles porque dentro del diálogo no se explicita en ningún momento alguna de las reglas estructurales.
+Algo interesante a considerar es que,
+como hemos visto con el pluralismo dialógico propuesto por @rahman2005 y
+Lorenzen y Lorenz en las pimeraas presentaciones de la lógica clásica e intuicionista,
+con solo cambios en las reglas estructurales se permite la presentación de distintos sistemas lógicos.
+Considerandolo desde la semiótica podemos afirmar que
+las modificaciones estructurales son cambios en el *common ground*
+que tienen los roles a la hora de realizar un diálogo.
+Para que pueda haber diálogo se debe acordar en las reglas del uso del juego.
+En lo estructural como en lo particular.
+De la misma manera que para que haya un diálogo entre agentes semióticos tiene
+que haber ciertas reglas en común y ciertas cadenas de interpretantes en común
+para que, a la hora de llevar a cabo el diálogo,
+no se tenga que desviar en dicutir cuáles son los aspectos en común
+que se va a considerar para poder continuar con el diálogo principal
+^[Esto puede observarse mucho en el sentido en que la diaĺólógica
+ha sido considerada para la teoría de la argumentación,
+donde los puntos que el orador y el auditorio tienen en común pueden cuestionarse.
+Para ver más a fondo acerca de la teoría de la argumentación y la dialógica véase @hodges2001; @hodges2006.]
+(en este caso poder observar si la tesis del proponente es válida o no).
+Las acciones de los roles se encuentran delimitadas por el conjunto de todas esas reglas.
+
+¿Cómo se puede entender la instauración de las reglas particulares y estructurales en sentido semiótico?
+Como bien remarcan los dialógicos y el propio Peirce,
+los roles son construciones teóricas.
+Una manera posible de responder a esto es afirmando que justamente la dialógica es en sí un proceso semiótico.
+En este sentido es considear a la lógica *como* semiótica.
+Algo que va a favor de muchas lecturas llevadas a cabo por los interpretes de Peirce
+y que hasta cierto sentido,
+es una respuesta mas fácil y rápida para salir de la cuestión.
+Sin embargo, consideramos que
+no siempre lo más facil es lo optimo para resolver estas cuestiones.
+Se tiene que tener especial cuidado y
+ser más preciso en las respuestas si se desea fidelidad entre las teorías.
+La dialógica, del modo presentada por Lorenzen y Lorenz no puede considerse *como* semiótica.
+Su finalidad no es una finalidad semiótica
+y tampoco tiene la ética de la terminología propuesta por Peirce.
+Por ello es que no consideramos de manera correcta el simplemente decir que
+la dialógica es una instanciación del proceso semiótico.
+Además los movimientos de la dialógica no son movimientos semióticos extraidos de la percepción,
+más bien, como bien lo destaca la escuela de Erlangen,
+son una reconstrucción para que el lenguaje sea más preciso y podamos
+llevar a cabo mejores argumentaciones en todos los ámbitos en que el lenguaje sea
+necesario.
+
+# Referencias
+::: {#refs}
+:::

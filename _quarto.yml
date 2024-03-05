@@ -20,7 +20,7 @@ book:
     # - 08-conclusiones.md
     # - references.qmd
 
-# bibliography: biblio.bib
+bibliography: ~/Documents/biblio.bib
 lang: es
 
 format:
