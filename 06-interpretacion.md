@@ -356,6 +356,39 @@ son una reconstrucción para que el lenguaje sea más preciso y podamos
 llevar a cabo mejores argumentaciones en todos los ámbitos en que el lenguaje sea
 necesario.
 
+@pietarinen2014 considera que los gráficos existenciales tienen una doble faceta
+en la presentación *game-theoretical*.
+La primera es la construcción del modelo y la segunda es el juego semántico propiamente.
+En la primera faceta se establece el universo del discurso
+y el comportamiento de las constantes lógicas.
+Haciendolo a partir de la explicitación por parte del grafista
+y la aceptación o negación del interprete.
+Quien crea el universo del discurso es el interprete (MS 280).
+[TODO: Corroborar que este manuscrito este en LoF]
+En la implementación del universo del discurso,
+en los gráficos,
+se encuentra el establecimiento del espacio lógico por el cual
+los roles van a poder llevar a cabo su juego semántico.
+De nuevo, en la primera faceta podemos ver cooperación entre los roles por establecer el universo del discurso.
+Recién en el juego semántico es donde va a sobresalir la característica competitiva del juego.
+
+De la misma manera, se puede entender la dialógica:
+una primera faceta de explicitación de la *contrucción del diálogo*
+y luego el diálogo propiamente.
+El establecimiento del *common ground* es similar al de los gráficos existenciales,
+se establecen las reglas estructurales a la vez que el proponente enuncia la tesis
+que desea defender.
+Por su parte, el oponente también va a hacer algo de la construcción del diálogo
+a partir de la selección del número de repeticiones posibles para el mismo.
+Nuevamente, podemos observar que todo esto es un aspecto cooperativo por parte
+del rol que se hace llamar oponente.
+No solo ambos roles van a ponerse de acuerdo con lo estructural del diálogo,
+también el propio oponente realiza un aporte cooperativo con esta elección del número de repetición.
+En la segunda etapa es donde se va a dar propiamente el diálogo del modo que ya conocemos.
+Allí entra el aspecto competitivo con los ataques y los cuestionamientos
+del oponente acerca de lo afirmado por el proponente.
+
+
 # Referencias
 ::: {#refs}
 :::
