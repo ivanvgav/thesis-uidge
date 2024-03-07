@@ -1,6 +1,6 @@
 ---
 title: "Interpretación semiótica de la dialógica"
-#bibliography: "~/Documents/biblio.bib"
+bibliography: ./biblio.bib
 ---
 
 Dada ya toda la explicación del marco de la semiótica
@@ -127,7 +127,7 @@ Por ejemplo, se podría encontrar ciertas similitudes con las tablas de verdad.
 para llevar a cabo un análisis de todas las conectivas lógicas pero que no fue publicado,
 por ello se le atibuye la utlización de las tablas de verdad a Wittgenstein aunque este
 las presente años después de haberlas realizado el propio Peirce.[TODO: buscar refrencias de esto]]
-@devjoska2012 considera a las tablas como diagramas [TODO: Volver a leer para encontrar una justificación de ello]
+@dejnozka2010 considera a las tablas como diagramas [TODO: Volver a leer para encontrar una justificación de ello]
 y, aunque Peirce no haya realizado una clasificación de diagramas, su definición de deducción [TODO: agregar referencia]
 permite entender a la tabla como un diagrama.
 Es decir, entendida de una manera amplia y laxa la dialógica es en algún sentido una lógica diagramática.
@@ -157,7 +157,7 @@ El lógico puede hacer uso de los teoremas y de los axiomas sin necesidad de hab
 Respecto a los gráficos existenciales,
 estos parten de un estado inicial de gráficos y luego son transformados en la hoja de aseveración por reglas de transformación.
 Quien grafica sabe de dichas reglas acerca de lo que puede y no puede hacer en las áreas pares e impares de los diagramas.
-En contrapartida de la demostración, los gráficos poseen una inconididad operacional [@stejnfel2007] particular
+En contrapartida de la demostración, los gráficos poseen una inconididad operacional [@stjernfelt2006] particular
 que permite que uno pueda observar, gracias a esas transformaciones,
 resultados que no se encontraban en el estado inicial del diagrama.
 La dialógica se encuentra en el medio entre una demostración estándar y un gráficos existencial.
@@ -172,7 +172,7 @@ En el medio de ellas se encuentra el diagrama dialógico.
 Esta característica dialógica es interesante,
 ya que encuentra un punto medio entre los lógicos que descartan la idea de diagrama
 y entre los lógicos que consideran que hay mayores beneficios que contras en la lógica diagramática.
-Aunque @pierce1906 muestre como es que en los gráficos existenciales hay dos roles
+Aunque @peirce1906 muestre como es que en los gráficos existenciales hay dos roles
 (el grafista y el intérprete)
 al momento de observar el gráfico esto no parece muy claro,
 porque prioriza la iconicidad operacional del diagrama.
@@ -273,7 +273,7 @@ La finalidad del *modus ponens* es que el agente afirme el consecuente de un con
 Tomo este ejemplo porque el propio Peirce da una justifiación de ello en sus *Cognition series* acerca de la justificación de los principios lógicos.
 En la circularidad de la justificación es que se encuentra el interpretante final lógico, puesto que no hay otra respuesta posible,
 otro interpretante posible.
-^[Si se desea indagar más a fondo acerca de estas cuestiones se debe buscar por el problema de la adopción @krpke2024 y @padro2024.
+^[Si se desea indagar más a fondo acerca de estas cuestiones se debe buscar por el problema de la adopción @kripke2024 y @padro2024.
 Acerca de la postura del autor de esta tesis sobre el problema de la adopción véase @gavriloff2022.]
 
 Volviendo al proceso semiótico que cumplen ambos roles,
@@ -377,17 +377,85 @@ una primera faceta de explicitación de la *contrucción del diálogo*
 y luego el diálogo propiamente.
 El establecimiento del *common ground* es similar al de los gráficos existenciales,
 se establecen las reglas estructurales a la vez que el proponente enuncia la tesis
-que desea defender.
-Por su parte, el oponente también va a hacer algo de la construcción del diálogo
-a partir de la selección del número de repeticiones posibles para el mismo.
+que desea ha defender.
+Por su parte, el oponente también va a hacer algo en la construcción del diálogo:
+delimita el número de repeticiones posibles para el mismo.
 Nuevamente, podemos observar que todo esto es un aspecto cooperativo por parte
 del rol que se hace llamar oponente.
 No solo ambos roles van a ponerse de acuerdo con lo estructural del diálogo,
 también el propio oponente realiza un aporte cooperativo con esta elección del número de repetición.
+Aquí nos encontramos en contra de @novaes2020 quien considera que la dialógica de Lorenzen y Lorenz
+no posee ninguna característica de cooperatividad y solo es un juego competitivo,
+cuando la instauración del diálogo tiene solo características cooperativas
+y no competitivas.
 En la segunda etapa es donde se va a dar propiamente el diálogo del modo que ya conocemos.
 Allí entra el aspecto competitivo con los ataques y los cuestionamientos
 del oponente acerca de lo afirmado por el proponente.
+En contra de @novaes2020 no es posible realizar algún diálogo,
+sea caracterizado por la dialógica o no,
+que no tenga algún rasgo cooperativo.
+Al menos para que sea un auténtico diálogo,
+sino a lo sumo no hay intercambio entre los roles,
+sino más bien dos enunciaciones paralelas de dos monólogos.
+Incluso la finalidad última del diálogo al ser una verificación acerca de la tesis
+tiene un espiritu cooperativo.
+El oponente va a continuar en el diálogo hasta agotar todas las instancia de realizar
+ataque y cuestionamientos a la tesis,
+pero también va a conceder cuando sea necesario.
 
+Uno podría objetarme a que siempre hay un elemento cooperativo apelando a la malevolencia de los agentes.
+Es decir, sería posible presentar el caso de un diálogo donde el oponente toma ese rol
+por querer hacer el mal al proponente
+por ello es que accede a las reglas estructurales y luego realiza la mayor cantidad de movimientos
+en contra de lo propuesto por el proponente.
+Esta objeción, dentro del ámbito de la dialógica,
+no tiene lugar.
+Volvemos a insistir, los roles son construcciones teóricas,
+puede que efectivamente representen a dos agentes de hecho,
+como pueden que no sea así.
+Como se contempla el segundo caso,
+la benevolencia o malevolencia de los mismos respecto de la toma de acciones dentro del diálogo,
+no interesa.
+Incluso aunque la intención del oponente sea en contra el proponente,
+si el proponente tiene una estrategia ganadora respecto de su tesis,
+entonces al haberle concedido las reglas estructurales
+no tiene otra opción que aceptar el resultado del diálogo.
+Es decir, concediendole una supuesta malevolencia al oponente,
+igual éste coopera y *debe* aceptar cualquier estrategia ganadora
+sobre una determinada tesis.
+^[Esto se debe a que si el proponente posee una estrategia ganadora sobre su tesis,
+la tesis es *válida*.]
+Desde la semiosis, un supuesto oponente malevolente igual dará lugar al proceso
+semiótico generando interpretantes a lo que le proponga el proponente.
+Para que haya un proceso de semiosis algo de cooperación tiene que haber si o si entre las partes.
+Hasta se podría argumentar que el silencio también es un interpretante
+y, aunque no se produzca diálogo alguno,
+ese primer paso de proponer una tesis y no obtener ninguna respuesta también permite inferir algo de ello.
+En suma, no hace ninguna diferencia la benevolencia o malevolencia del oponente.
+Por más que sean roles y que hagamos referencias a ellos como si fuesen personas, no lo son.
+La semiótica peirceana adjudicaría a los roles del proponente y el oponente el ser *quasi-mente*,
+producen signos de alguna manera.
+
+::: {.callout-warning title="Nota para trabajar"}
+No se si esto en realidad está bien, creo que no.
+Porque si podría adjudicarle cierta semiosis a los roles.
+:::
+
+## ¿El proponente y el oponente realizan semiosis?
+
+Un planteamiento interesante acerca de los roles como construcciones teóricas es si estos realizan semiosis.
+Uno podría pensar que si lo hacen puesto que responden a las tres dimensiones del signo.
+Pueden entender los *representamen* [TODO: chequear plural en latin], los objetos y los interpretantes.
+Ahora bien, al ser construcciones teóricas,
+¿efectivamente realizan semiosis?
+Si la respuesta que damos es afirmativa,
+entonces podemos decir que muchas entidades realizan semiosis,
+como por ejemplo una computadora para colocar un ejemplo concreto.
+Pero decir que el proponente y el oponente realizan semiosis es ir más allá
+de la afirmación de que una computadora realiza semiosis.
+Una computadora es una entidad que tiene rasgos físicos (hardware)
+mientras que los roles en el diálogo no parece ser el caso.
+Al menos tienen la posibilidad pero no la necesidad de tener un correlato material.
 
 # Referencias
 ::: {#refs}
