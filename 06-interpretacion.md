@@ -446,6 +446,7 @@ Porque si podría adjudicarle cierta semiosis a los roles.
 Un planteamiento interesante acerca de los roles como construcciones teóricas es si estos realizan semiosis.
 Uno podría pensar que si lo hacen puesto que responden a las tres dimensiones del signo.
 Pueden entender los *representamen* [TODO: chequear plural en latin], los objetos y los interpretantes.
+Y no solo entender, también tendría que producir interpretantes a la hora de tener un signo presente.
 Ahora bien, al ser construcciones teóricas,
 ¿efectivamente realizan semiosis?
 Si la respuesta que damos es afirmativa,
@@ -453,10 +454,24 @@ entonces podemos decir que muchas entidades realizan semiosis,
 como por ejemplo una computadora para colocar un ejemplo concreto.
 Pero decir que el proponente y el oponente realizan semiosis es ir más allá
 de la afirmación de que una computadora realiza semiosis.
-Una computadora es una entidad que tiene rasgos físicos (hardware)
+Una computadora es una entidad que tiene rasgos físicos (*hardware*)
 mientras que los roles en el diálogo no parece ser el caso.
 Al menos tienen la posibilidad pero no la necesidad de tener un correlato material.
+Si la respuesta es negativa,
+entonces los roles y todo lo que ellos hacen en el diálogo son meros signos de algo más,
+no atribuible a ellos.
+Si efectivamente esto fuese de esta manera,
+no tendría ningún sentido la creación de la dialógica
+puesto solo sería una cuestión de simple notación lógica
+que, a lo sumo, puede tener características más pedagógicas
+para la enseñanza de la lógica,
+pero no mucho más que eso.
+Estas dos respuestas no consideramos que sean acertadas.
+Bastan como una primera aproximación a la cuestión,
+pero solo como eso.
 
-# Referencias
+
+
+# Referencias {.unnumered}
 ::: {#refs}
 :::
