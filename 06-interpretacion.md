@@ -470,7 +470,16 @@ Estas dos respuestas no consideramos que sean acertadas.
 Bastan como una primera aproximación a la cuestión,
 pero solo como eso.
 
-
+Algo importante a destacar acerca de los roles para tener en cuenta si es que estos realizan semiosis,
+ambos tienen propósito.
+El proponente buca sostener su tesis,
+mientras que el oponente tiene como propósito objetar y cuestionar las afirmaciones del proponente.
+Esto va a favor del argumento de que *puede* haber cierta semiosis.
+@short2007 sostiene que el proceso semiótico es intríncecamente teleológico.
+Los gráficos existenciales y los diálogos son herramientas que poseen una finalidad:
+analizar nuestros razonamientos.
+Con esto, es claro que el proponente y el oponente dialógico como el grafista y el intérprete llevan a cabo propósitos.
+Por lo que suma a que los roles *si* realizan cierto proceso semiótico.
 
 # Referencias {.unnumered}
 ::: {#refs}
