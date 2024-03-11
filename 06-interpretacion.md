@@ -475,11 +475,59 @@ ambos tienen propósito.
 El proponente buca sostener su tesis,
 mientras que el oponente tiene como propósito objetar y cuestionar las afirmaciones del proponente.
 Esto va a favor del argumento de que *puede* haber cierta semiosis.
-@short2007 sostiene que el proceso semiótico es intríncecamente teleológico.
+@short2007 sostiene que el proceso semiótico considerado por Peirce es intríncecamente teleológico.
 Los gráficos existenciales y los diálogos son herramientas que poseen una finalidad:
 analizar nuestros razonamientos.
 Con esto, es claro que el proponente y el oponente dialógico como el grafista y el intérprete llevan a cabo propósitos.
 Por lo que suma a que los roles *si* realizan cierto proceso semiótico.
+
+Que haya cierto propósito en la semiosis tiene que ver en que uno usa los signos de cierta manera práctica,
+es decir hay un cierto pragmatismo en el uso de los signos.
+Pragmatismo aquí tiene que ser entendido como lo toma Peirce y James,
+aquel que deriva del uso kantiano de la palabra *pragmatishe*,
+aquello referido a la acción.
+Cuando en los díalogos se hace uso de signos,
+el proponente y el oponente realizan acciones con ellos.
+El primero puede llevar a cabo afirmaciones y
+el segundo puede atacarlas y cuestionarlas.
+Hacen uso de los signos no en un sentido meramente representacional,
+sino que *con* signos realizan acciones.
+La dimensión pragmática es explicitada a la hora de realizar el juego de los diálogos.
+
+Desde un inicio del diálogo se puede observar esto,
+partiendo de la afirmación de la tesis por parte del proponente
+y eligiendo el número de repeticiones por parte del oponente,
+todas son acciones que no cumplen únicamente la función representacional del lenguaje.
+Es decir, semióticamente la dialógica tiene otros propósitos más que la teoría de modelos
+y la teoría de la demostración.
+Como bien marcamos antes, hay una etapa de construcción del diálogo,
+*acciones* que los roles realizan para poder dar comienzo al juego.
+Como el diálogo puede caracterizarse como un juego,
+es claro que Lorenzen y Lorenz buscaban enfatizar el aspecto pragmático de los diálogos
+en contra partida de la sintaxis en la teoría de la demostración
+y la semántica en la teoría de los modelos.
+Esto también se encuentra relacionado a que los Lorenzen y Lorenz, desde un inicio,
+buscaron un sistema de lógica contructivista.
+Por lo que es totalmente aceptable y plausible una interpretación semiótica que tienda a la pragmática.
+
+Volviendo a los propósitos de los roles,
+el proponente y el oponente tiene proósitos específicos y estrechos.
+A diferencia de otros agentes que pueden realizar semiosis como ser el ser humano,
+estos no pueden estipular ellos mismos otros propósitos dentro del marco del diálogo
+-y por fuera del diálogo no tienen entidad puesto que son construcciones teóricas-
+siendo que no sean realmente agentes que realicen semiosis.
+
+El proponente y el oponente no pueden generar nuevos hábitos para realizar nuevos propósitos.
+Como bien remarca Peirce, [TODO: buscar referencia]
+para que los agentes realicen semiosis lo que tienen que poseer es un meta-hábito:
+la capacidad de generar hábitos ellos mismos.
+Claramente ni $P$ ni $O$ como tampoco el grafista y el intérprete de los gráficos existenciales tienen esa capacidad.
+Como podemos observar,
+cada una de estas consideraciones nos lleva a que los roles de la dialógica tienen alguna capacidad de realizar una *quasi-semiosis*
+de alguna manera, bajo la semiótica peircena,
+el proponente y el oponente son *quasi-mentes*.
+Es claro, como hemos visto en el capítulo acerca del pragmatismo de Peirce,
+que el concepto de mente de Peirce es un concepto bastante *sui generis* y amplio.
 
 # Referencias {.unnumered}
 ::: {#refs}
