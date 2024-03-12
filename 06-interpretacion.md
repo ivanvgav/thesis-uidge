@@ -1,6 +1,7 @@
 ---
 title: "Interpretación semiótica de la dialógica"
 bibliography: ./biblio.bib
+lang: es
 ---
 
 Dada ya toda la explicación del marco de la semiótica
@@ -528,6 +529,58 @@ de alguna manera, bajo la semiótica peircena,
 el proponente y el oponente son *quasi-mentes*.
 Es claro, como hemos visto en el capítulo acerca del pragmatismo de Peirce,
 que el concepto de mente de Peirce es un concepto bastante *sui generis* y amplio.
+^[Eso hace referencia en el apartado (TODO: agregar número en el momento)
+sobre la noción de mente en Peirce]
+
+Lo destacable de todo esto es que,
+al igual que en la teoría de la demostración,
+se podría realizar la creación de roles a través de ciertos algoritmos
+que respondan ante cada una de las reglas particulares,
+teniendo previamente a las reglas estructurales.
+De esta manera se mecanizaría la manera en que cada uno de los roles realiza su trabajo.
+Haciendo que dentro de ese proceso algorítmico se produzca la *quasi-semiosis*
+de la que hablamos anteriormente.
+
+<!-- Estrategia ganadora, habito y semiosis -->
+Como bien han remarcado varios *scholars* de Peirce,
+el filósofo no poseía el aparato teórico de la teoría de juegos
+ni tenía cercana alguna de las bases que luego dieron a dicha teoría,
+se pueden realizar ciertas analogías con alguno de sus conceptos
+como ser el de hábito.
+Pietarinen [TODO: colocar referencias] sostiene que
+la noción de hábito peirceana es una clara base para la noción de estrategia ganadora en teoría de juegos
+y de cierta manera se anticipa a la misma.
+Llevando esto para la semiótica peirceana,
+un hábito puede ser considerado como un interpretante consolidado por varias experiencias previas.
+Teniendo esto en cuenta,
+en el proceso dialógico cuando el proponente posee una estrategia ganadora puede interpretarse
+como que el agente posee un interpretante final que lo conduce para una determinada acción.
+Como el caso de la dialógica es aquel en el que
+el proponente trata de buscar estrategia ganadora sobre el oponente,
+y de tenerla sería lo mismo que tener un interpretante lógico final.
+Como sostiene @pietarinen2018, un argumento válido o un razonamiento válido,
+es, semióticamente hablando, un interpretante lógico final.
+El mismo no puede interpretase de otra manera que no sea como un argumento válido,
+el interpretante lleva a que el agente sea compelido a llevar una acción determinada por dicho razonamiento
+y no hay posibilidad de refutar dicho razonamiento.
+^[Todo esto vale para los razonamientos deductivos.
+No se extrae la misma conclusión para los razonamientos inductivos y abductivos.
+Estos últimos tienen otro modo de justificarse y de entenderse semióticamente.
+Para este trabajo no es necesario indagar sobre ellos.]
+Cuando el proponente alcanza la estrategia ganadora para sostener su tesis,
+el oponente no puede realizar ningún ataque o cuestionamiento a la misma.
+Ha perdido el juego.
+Semióticamente está compelido a aceptar la validez de dicha tesis.
+Si fuese un agente semiótico lo demostraría accionando del modo en que dice el argumento.
+Por ejemplo si el dialógo fuese sobre el *modus ponens*,
+el oponente estaría compelido a deducir el consecuente de un condicional y la afirmación de su antecedente.
+Esta acción de estar compelido se demuestra no ya en la representación de los signos,
+sino en la acción misma de la afirmación de la conclusión
+(en este caso en la afirmación del consecuente del condicional dado).
+
+Con esto podemos volver a afirmar acerca de la primacía de la acción dentro de la semiótica peirceana.
+Los signos no solo sirven para representar al objeto y poder comunicarlo,
+sobre todo tienen una finalidad de poder cambiar conductas y establecer propósito [@short2007].
 
 # Referencias {.unnumered}
 ::: {#refs}
