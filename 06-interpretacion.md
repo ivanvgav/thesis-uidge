@@ -580,7 +580,11 @@ sino en la acción misma de la afirmación de la conclusión
 
 Con esto podemos volver a afirmar acerca de la primacía de la acción dentro de la semiótica peirceana.
 Los signos no solo sirven para representar al objeto y poder comunicarlo,
-sobre todo tienen una finalidad de poder cambiar conductas y establecer propósito [@short2007].
+sobre todo tienen una finalidad de poder cambiar conductas y establecer propósitos [@short2007].
+De la misma manera, la dialógica pone énfasis en los movimientos de los roles a partir de reglas.
+Al focalizar en los moviemientos,
+explicita las acciones de roles antes que realizar un ecadenamiento de una demostración
+o la creación de un modelo.
 
 # Referencias {.unnumered}
 ::: {#refs}
