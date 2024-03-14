@@ -473,7 +473,7 @@ pero solo como eso.
 
 Algo importante a destacar acerca de los roles para tener en cuenta si es que estos realizan semiosis,
 ambos tienen propósito.
-El proponente buca sostener su tesis,
+El proponente busca sostener su tesis,
 mientras que el oponente tiene como propósito objetar y cuestionar las afirmaciones del proponente.
 Esto va a favor del argumento de que *puede* haber cierta semiosis.
 @short2007 sostiene que el proceso semiótico considerado por Peirce es intríncecamente teleológico.
@@ -487,7 +487,7 @@ es decir hay un cierto pragmatismo en el uso de los signos.
 Pragmatismo aquí tiene que ser entendido como lo toma Peirce y James,
 aquel que deriva del uso kantiano de la palabra *pragmatishe*,
 aquello referido a la acción.
-Cuando en los díalogos se hace uso de signos,
+Cuando en los diálogos se hace uso de signos,
 el proponente y el oponente realizan acciones con ellos.
 El primero puede llevar a cabo afirmaciones y
 el segundo puede atacarlas y cuestionarlas.
@@ -512,7 +512,7 @@ buscaron un sistema de lógica contructivista.
 Por lo que es totalmente aceptable y plausible una interpretación semiótica que tienda a la pragmática.
 
 Volviendo a los propósitos de los roles,
-el proponente y el oponente tiene proósitos específicos y estrechos.
+el proponente y el oponente tiene propósitos específicos y estrechos.
 A diferencia de otros agentes que pueden realizar semiosis como ser el ser humano,
 estos no pueden estipular ellos mismos otros propósitos dentro del marco del diálogo
 -y por fuera del diálogo no tienen entidad puesto que son construcciones teóricas-
@@ -572,7 +572,7 @@ el oponente no puede realizar ningún ataque o cuestionamiento a la misma.
 Ha perdido el juego.
 Semióticamente está compelido a aceptar la validez de dicha tesis.
 Si fuese un agente semiótico lo demostraría accionando del modo en que dice el argumento.
-Por ejemplo si el dialógo fuese sobre el *modus ponens*,
+Por ejemplo si el diálogo fuese sobre el *modus ponens*,
 el oponente estaría compelido a deducir el consecuente de un condicional y la afirmación de su antecedente.
 Esta acción de estar compelido se demuestra no ya en la representación de los signos,
 sino en la acción misma de la afirmación de la conclusión
@@ -582,9 +582,22 @@ Con esto podemos volver a afirmar acerca de la primacía de la acción dentro de
 Los signos no solo sirven para representar al objeto y poder comunicarlo,
 sobre todo tienen una finalidad de poder cambiar conductas y establecer propósitos [@short2007].
 De la misma manera, la dialógica pone énfasis en los movimientos de los roles a partir de reglas.
-Al focalizar en los moviemientos,
-explicita las acciones de roles antes que realizar un ecadenamiento de una demostración
+Al poner el foco en los movimientos,
+explicita las acciones de roles antes que realizar un encadenamiento de una demostración
 o la creación de un modelo.
+
+<!-- El diálogo en la conformación del significado de la tesis del proponente -->
+<!--
+Puede verse en la dinámica del diálogo
+que si bien el proponente postula una tesis,
+el oponente en sus movimientos de ataques y cuestionamientos
+también va produciendo un entendimiento de lo que el proponente asevera.
+En este sentido,
+es una muestra muy esquematizada del proceso de comunicación entre dos agentes,
+que pueden o no tener todo el *common ground* entre ellos,
+pero que aun así se tiene que producir el diálogo para que haya un efectivo
+significado de lo que uno le está diciendo al otro.
+-->
 
 # Referencias {.unnumered}
 ::: {#refs}
