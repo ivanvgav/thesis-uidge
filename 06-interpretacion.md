@@ -587,7 +587,6 @@ explicita las acciones de roles antes que realizar un encadenamiento de una demo
 o la creación de un modelo.
 
 <!-- El diálogo en la conformación del significado de la tesis del proponente -->
-<!--
 Puede verse en la dinámica del diálogo
 que si bien el proponente postula una tesis,
 el oponente en sus movimientos de ataques y cuestionamientos
@@ -597,7 +596,36 @@ es una muestra muy esquematizada del proceso de comunicación entre dos agentes,
 que pueden o no tener todo el *common ground* entre ellos,
 pero que aun así se tiene que producir el diálogo para que haya un efectivo
 significado de lo que uno le está diciendo al otro.
--->
+
+Incluso en la primera etapa de la que nombramos como conformación del diálogo,
+lo indicado en el párrafo anterior se sostiene.
+Hay una elección por parte de los roles en las reglas particulares, estructurales y en los números de repetición.
+Hay un entendimiento y un inicio de conformación del diálogo para su efectividad
+a través de las reglas.
+Recordemos que si cambiamos las reglas estructurales podemos encontrarnos en distintos tipos de sistemas lógicos [@rahman2005].
+Si no se establecen esas reglas estructurales,
+ese *common ground* que permita que los roles efectuen las reglas particulares,
+no hay posibilidad del diálogo.
+Ahora bien, para que se establescan las reglas estructurales,
+se necesita de cierto acuerdo.
+No hay ningún movimiento de imposición de reglas y de aceptación tácita por parte de los roles.
+
+@caixa2022 muestra bien como en la conformación misma del significado de los signos el la noción de diálogo se encuentra presente
+en la semiótica peirceana.
+Cuando uno se encuentra con un signo que no conoce hay una cierta "incertidumbre" en cómo interpretarlo y reaccionar ante él.
+Se produce un juego, un diálogo hasta que los interpretantes
+que se alcanzan de la cadena semiótica nos indican de la mejor manera posible,
+con la experiencia colateral que se tiene,
+qué significado tiene dicho signo.
+De manera análoga, se puede producir ese acuerdo en la etapa de la conformación del diálogo.
+A su vez esa "incertidumbre" inicial también aparece en la segunda etapa del diálogo,
+cuando el proponente tiene que encontrar una estrategia ganadora para defender su tesis del oponente.
+Ni el proponente ni el oponente saben desde un inicio que efectivamente uno va a ganar y el otro perder.
+Todo depende de cómo realicen los movimientos,
+y en última instancia si la tesis del proponente tiene o no una estrategia ganadora.
+Por lo que sucede analogamente lo mismo que en el caso en el que nos encontramos con un signo novedoso para nosotros.
+
+
 
 # Referencias {.unnumered}
 ::: {#refs}
