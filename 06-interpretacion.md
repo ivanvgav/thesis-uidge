@@ -614,17 +614,49 @@ No hay ningún movimiento de imposición de reglas y de aceptación tácita por 
 en la semiótica peirceana.
 Cuando uno se encuentra con un signo que no conoce hay una cierta "incertidumbre" en cómo interpretarlo y reaccionar ante él.
 Se produce un juego, un diálogo hasta que los interpretantes
-que se alcanzan de la cadena semiótica nos indican de la mejor manera posible,
+que se alcanzan en la cadena semiótica nos indican de la mejor manera posible y
 con la experiencia colateral que se tiene,
 qué significado tiene dicho signo.
 De manera análoga, se puede producir ese acuerdo en la etapa de la conformación del diálogo.
 A su vez esa "incertidumbre" inicial también aparece en la segunda etapa del diálogo,
 cuando el proponente tiene que encontrar una estrategia ganadora para defender su tesis del oponente.
-Ni el proponente ni el oponente saben desde un inicio que efectivamente uno va a ganar y el otro perder.
+Ni el proponente ni el oponente saben desde un inicio cual de los dos  efectivamente va a ganar.
 Todo depende de cómo realicen los movimientos,
 y en última instancia si la tesis del proponente tiene o no una estrategia ganadora.
 Por lo que sucede analogamente lo mismo que en el caso en el que nos encontramos con un signo novedoso para nosotros.
 
+<!-- Posible conclusión -->
+Es claro que la dialógica es mucho más acotada que la semiótica peirceana.
+Algunos podrían decir que la semiótica peirceana puede tratar absolutamente cualquier objeto de estudio posible.
+Esto se debe a que para Peirce todo puede ser un signo potencial.
+Esto podría llegar a ser considerado como un error de la teoría.
+Si todo es signo potencial, entonces no hay umbral posible para demarcar lo que no es un signo.
+Y si todo es un signo, nada es un signo,
+puesto que para poder definir cualquier noción tengo que encontrar algún limitante para demarcar diferencias.
+
+Sin embargo, esto no tiene porqué ser considerado como un problema o un error,
+sino más bien como una característica ha ser aprovechada.
+La semiótica puede aportar sustento filosófico a potencialmente cualquier sistema lógico formal.
+Si bien es cierto que no todo sistema lógico formal tiene que tener un sustento filosófico
+o una interpretación filosófica
+^[Si se desea saber más acerca de la diferencia entre sistema lógico
+y la interpretación filosófica del sistema véase @barrio2018.],
+es mucho más interesante poder tener un sistema lógico que conlleve una interpretación filosófica.
+Si bien la dialógica no es un sistema lógico que no tenga una interpretación filosófica,
+Lorenzen y Lorenz tenian su propia filosofía y
+el primero como el fundador de la dialógica también tenía sus posturas filosóficas sobre los fundamentos de la matemáticas
+^[Véase @schoeder-heister2008],
+luego ello fue evolucionando hacia la denominada *escuela de Erlangen* con la idea de la reformación del lenguaje
+para poder tener más claridad sobre las disciplinas cientificas y en los discursos cotidianos.
+Todo este proceso es distinto al que propugnamos en este trabajo.
+Aquí mostramos que la dialógica es una buena muestra formal de lo que es el proceso semiótico,
+que la dialógica es una continuación, en su intencionalidad,
+de lo que había comenzado Peirce con sus gráficos existenciales
+y en paralelo con el desarollo de la *game-theoretical semantics*.
+Los actuales referentes de la dialógica, la *escuela de Lille* han tomado un camino distinto al propuesto aquí.
+Han seguido con el trasfondo filosófico de la dialógica y han extendido,
+mejorando ante varias de las objeciones
+(como hemos visto en el capítulo de la dialógica).
 
 
 # Referencias {.unnumered}
