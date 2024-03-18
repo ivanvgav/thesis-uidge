@@ -625,7 +625,51 @@ Todo depende de cómo realicen los movimientos,
 y en última instancia si la tesis del proponente tiene o no una estrategia ganadora.
 Por lo que sucede analogamente lo mismo que en el caso en el que nos encontramos con un signo novedoso para nosotros.
 
+Quienes conocen la *game-theoretical semantics* podrían contradecirme la idea de que
+en los diálogos no hay ninguna incertidumbre.
+Los roles tienen perfecta y completa información acerca de lo que está sucediendo en el diálogo.
+Si esto fuese efectivamente así, lo que no encontramos sentido es el hecho de llevar a cabo el diálogo mismo.
+Si el diálogo ya se encuentra decidido de antemano no hay necesida de tener que explicitarlo previamente.
+De hecho, sería mucho más util simplemente realizar una demostración de la validez de la tesis.
+Con esto no queremos decir que la información no es completa ni imperfecta,
+sino que los roles parten de dicho *common ground* y luego es posible que el proponente llegue o no a una estrategia ganadora.
+
+Semióticamente tiene sentido que el diálogo se de hasta alcanzar el interpretante deseado por el proponente.
+Sino, no habría necesidad de hacer los movimientos del diálogo.
+El oponente ya se encontraría "destinado" [TODO: buscar otra palabra] ha perder el juego ante cada tesis válida,
+no habría una necesida de mostrar el aspecto dialógico del mismo.
+
+Si ambos roles poseen la información completa y perfecta,
+no hay necesidad de que se produzca ninguna situación semiótica posible.
+El proponente al enunciar la tesis lógica
+(si esta es una fórmula válida)
+solo tendría que esperar que el oponente actue en concordancia con lo que él afirma,
+puesto que ambos poseen la misma información.
+Sin embargo, esto no se produce de esta manera.
+Hay moviemientos de los diálogos entre el proponente y el oponente,
+hasta que uno de los dos gana y el otro pierde.
+La información que los roles es compartida,
+no hay nada nuevo que se introduce en el juego,
+pero el resultado no se encuetra predeterminado de antemano,
+todo depende los movimientos que realicen los roles para alcanzar cada uno de sus objetivos.
+
+<!-- Con qué tipo de objetos trabaja la dialógica -->
+## El objeto del diálogo
+Si nos guiamos por el signo peirceano hay una dimensión del mismo que todavía no hemos analizado respecto de los diálogos.
+¿Cuál es el objeto del diálogo?
+*Prima facie* el objeto es la tesis que afirma el proponente.
+Esta se encuentra representada por la fórmula al inicio del diálogo.
+Pero la fórmula es un signo, no el objeto en si mismo.
+
+En el dinamismo del diálogo, cuando hay una formula que lleva a una estrategia ganadora,
+puede observarse como el objeto dinámico lleva a alcanzar al objeto real en el momento
+en que el oponente no puede realizar ningún movimiento más que dar por perdido el juego.
+Este es uno de los pocos casos en el que el proceso semiótico alcanza al objeto real.
+Esto se debe a lo limitado y condicionado que se encuetra el proceso.
+En los demás análisis semióticos no es posible llegar al objeto real en un proceso tan sucinto.
+
 <!-- Posible conclusión -->
+## Observaciones finales
 Es claro que la dialógica es mucho más acotada que la semiótica peirceana.
 Algunos podrían decir que la semiótica peirceana puede tratar absolutamente cualquier objeto de estudio posible.
 Esto se debe a que para Peirce todo puede ser un signo potencial.
@@ -659,6 +703,6 @@ mejorando ante varias de las objeciones
 (como hemos visto en el capítulo de la dialógica).
 
 
-# Referencias {.unnumered}
+## Referencias {.unnumered}
 ::: {#refs}
 :::
