@@ -667,6 +667,72 @@ en que el oponente no puede realizar ningún movimiento más que dar por perdido
 Este es uno de los pocos casos en el que el proceso semiótico alcanza al objeto real.
 Esto se debe a lo limitado y condicionado que se encuetra el proceso.
 En los demás análisis semióticos no es posible llegar al objeto real en un proceso tan sucinto.
+Afirmamos que llegamos al objeto real porque el interpretante resultante del proceso dialógico es
+un interpretante lógico final.
+El diálogo agota toda posible interpretación futura de dicho objeto.
+Aunque si somos estrictamente peirceanos,
+o mejor dicho pragmaticistas,
+no podemos afirmar certeramente lo que acabo de decir.
+Esto se debe a la postura falibilista de Peirce.
+^[Si se desea saber más sobre falibilismo,
+retomar el capítulo sobre el pragmatismo de Peirce,
+en especial el parágrafo sobre el falibilismo.]
+Siempre es posible que en algún posible futuro,
+dicho interpretante lógico final deje de ser final
+debido a alguna causa o razón del objeto o del mundo
+que haga que la interpretación del proceso semiótico vuelva a resurgir.
+
+Como ya hemos discutido antes acerca de si las propociones de la lógica pueden o no ser falibles,
+recordamos que para nosotros hay un cierto sentido en que éstas pueden ser falibles.
+En el sentido de que aunque sean verdaderas y necesarias dentro de *un* sistema lógico,
+puede que en otro sistema lógico no lo sean.
+Esto lleva a considerar algo que la dialógica destaca muy bien,
+las reglas estructurales.
+Como muestran @rahman2005, el cambio de las reglas estructurales dan diversos sistemas lógicos.
+Y como hemos manifestado aquí,
+las reglas estructurales son el *common ground* que tienen el proponente y el oponente
+para iniciar el diálogo.
+Dicho esto, hasta que no haya un acuerdo entre los roles por cual es el *common ground*
+podemos dudar si tal o cual proposición es infalible o no.
+
+En un futuro es posible que alguna propiedad de, por ejemplo, la lógica clásica
+sea descubierta que haga que cierta regla estructural de la dialógica
+tenga que ser suprimida o reformada y que haga que ciertas proposiones que poseían 
+una estrategia ganadora para el proponente, ya no la tengan más.
+Consideramos que es en este sentido que Peirce habla de falibilidad en todas las áreas del conocimiento.
+En particular para la lógica.
+
+Volviendo al objeto: ese conjunto de símbolos
+(en sentido de la semiótica)
+que es la tesis del proponente se enmarca en algo
+que bajo la semiótica y la lógica de Peirce es diagramático.
+El diálogo mismo.
+El conjunto de tabla donde aparecen cada uno de los moviemientos de los roles
+en un determinado orden y los movimientos mismos.
+A diferencia de los gráficos existenciales, 
+el diálogo como objeto es de un orden mucho más simbólico que icónico.
+Peirce intentaría de reformar la propuesta dialógica para llevarla a cabo icónicamente.
+Nosotros creemos que los gráficos existenciales son suficientes para tal objetivo.
+^[Esto será analizado y demostrado en el capítulo siguiente.]
+El formato de tabla, aunque necesite de más índices y símbolos, 
+muetra de manera más icónica los movimientos de los roles.
+Contraintuitivamente uno podría pensar que el uso de índices
+(como son los números de repeticiones y el número de orden de pasos en que está cada línea del diálogo)
+y los símbolos
+(como el $?$ y $!$ para las afirmaciones y los ataques)
+hacen notable lo que cada acción de los roles.
+Sin embargo, es el formato del diagrama,
+la tabla lo que hace que sea más claro quien es quien y qué hace qué.
+Por supuesto que es necesario el uso de los índices y los símbolos,
+pero aquello que hace que uno pueda percibir el espacio de los roles
+y de sus acciones es la diagramatización de la tabla.
+La bidimensionalidad de la misma hace que uno pueda colocar espacialmente
+espacios de tiempo
+(como los movimientos de los roles)
+que no pueden observarse con claridad en los gráficos existenciales.
+
+<!-- Seguir hablando de los componentes del diálogo como un diagrama,
+poner en énfasis que se ajusta a la definición de deducción de Peirce -->
 
 <!-- Posible conclusión -->
 ## Observaciones finales
