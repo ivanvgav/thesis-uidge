@@ -733,6 +733,22 @@ que no pueden observarse con claridad en los gráficos existenciales.
 
 <!-- Seguir hablando de los componentes del diálogo como un diagrama,
 poner en énfasis que se ajusta a la definición de deducción de Peirce -->
+A su vez, que el diagrama dialógico permita mostrar los movimientos por los cuales se llegan a estrategias ganadoras (o no)
+condice de manera muy clara con la definición de deducción de Peirce:
+
+> TODO: Agregar definicion de deduccion
+
+Hay un trabajo con el diagrama inicial,
+en este caso con la tesis propuesta por el proponente.
+Los movimientos de los roles son esas acciones que realiza la mente
+y la imaginación para transformar el diagrama inicial.
+Hay un proceso de transformación inicial que
+no es idéntico a lo que se realiza en los gráficos existenciales.
+La transformación en la dialógica da como resultado quien gana en el juego,
+no da como resultado otro diagrama.
+Se concluye el resultado del juego, quien gana y quien pierde.
+
+<!-- Hablar sobre el mecanismo de decision, el tema de deduccion y que es lo que tiene que dar -->
 
 <!-- Posible conclusión -->
 ## Observaciones finales
