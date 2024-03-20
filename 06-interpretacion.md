@@ -749,6 +749,34 @@ no da como resultado otro diagrama.
 Se concluye el resultado del juego, quien gana y quien pierde.
 
 <!-- Hablar sobre el mecanismo de decision, el tema de deduccion y que es lo que tiene que dar -->
+Una posible objeción acerca de si el diagrama dialógico da cuenta de la noción de deducción de Peirce
+es que no modifica al diagrama original,
+no lo transforma por lo que no cumple con lo afirmado por Peirce.
+Como respuesta podemos decir que el siendo el diagrama inicial la tesis propuesta por el proponente,
+recordemos de aspecto simbólico,
+todo el diagrama dialógico es una incorporación al diagrama inicial
+que permite que los roles realicen su tarea,
+sus ataques y defensas al diagrama inicial
+llegando a concluir quien de los dos roles gana y quien pierde.
+Al haber una incorporación de toda la tabla con los respectivos movimientos de los roles
+si hay una modificación del diagrama original,
+a su vez se extrae de él conclusiones que en un principio no se podían extraer
+con solo mirar el diagrama inicial.
+Podemos inferir quien de los roles ganó,
+y en el caso de que haya ganado el proponente
+si es que hubo o no una estrategia ganadora.
+Otro cuestión imporatante a resaltar sobre la idea de deducción es la noción de experimentación.
+En el diagrama dialógico cada una de las posibles jugadas son elementos que hacen al experimiento.
+En este caso el experimiento es el diálogo mismo,
+que dará como resultado un ganador y un perdedor.
+Dada un diálogo que no posee una estrategia ganadora puede dar lugar a que
+se vuelva a realizar otro dialogo con la misma tesis
+pero cuyos movimientos sean distintos y el resultado también lo sea.
+Es decir, podemos experimentar varias veces con el diálogo.
+Cuando tenemos una estrategia ganadora,
+la experimentación finaliza puesto que hemos encontrado
+que dicha tesis tiene una estrategia ganadora.
+No podemos seguir experimentando con ella.
 
 <!-- Posible conclusión -->
 ## Observaciones finales
