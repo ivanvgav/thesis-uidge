@@ -446,7 +446,7 @@ Porque si podría adjudicarle cierta semiosis a los roles.
 
 Un planteamiento interesante acerca de los roles como construcciones teóricas es si estos realizan semiosis.
 Uno podría pensar que si lo hacen puesto que responden a las tres dimensiones del signo.
-Pueden entender los *representamen* [TODO: chequear plural en latin], los objetos y los interpretantes.
+Pueden entender los *representamina*, los objetos y los interpretantes.
 Y no solo entender, también tendría que producir interpretantes a la hora de tener un signo presente.
 Ahora bien, al ser construcciones teóricas,
 ¿efectivamente realizan semiosis?
@@ -636,7 +636,7 @@ sino que los roles parten de dicho *common ground* y luego es posible que el pro
 
 Semióticamente tiene sentido que el diálogo se de hasta alcanzar el interpretante deseado por el proponente.
 Sino, no habría necesidad de hacer los movimientos del diálogo.
-El oponente ya se encontraría "destinado" [TODO: buscar otra palabra] ha perder el juego ante cada tesis válida,
+El oponente ya se encontraría determinado ha perder el juego ante cada tesis válida,
 no habría una necesida de mostrar el aspecto dialógico del mismo.
 
 Si ambos roles poseen la información completa y perfecta,
@@ -765,7 +765,7 @@ con solo mirar el diagrama inicial.
 Podemos inferir quien de los roles ganó,
 y en el caso de que haya ganado el proponente
 si es que hubo o no una estrategia ganadora.
-Otro cuestión imporatante a resaltar sobre la idea de deducción es la noción de experimentación.
+Otro cuestión importante a resaltar sobre la idea de deducción es la noción de experimentación.
 En el diagrama dialógico cada una de las posibles jugadas son elementos que hacen al experimiento.
 En este caso el experimiento es el diálogo mismo,
 que dará como resultado un ganador y un perdedor.
@@ -777,6 +777,25 @@ Cuando tenemos una estrategia ganadora,
 la experimentación finaliza puesto que hemos encontrado
 que dicha tesis tiene una estrategia ganadora.
 No podemos seguir experimentando con ella.
+
+Otra posible objeción a esta interpretación que estamos haciendo es que
+el diálogo es un mecanismo de decisión
+y como mecanismo de decisión no hay una muestra de lo que la tesis deduce,
+sino una indicación acerca de la validez de la fórmula.
+Siguiendo a la definición de deducción de Peirce,
+en ningún momento esta nos dice que debemos *necesariamente*
+extraer *unicamente* la conclusión de la tesis.
+La deducción de Peirce es amplia,
+basta con que nos otorgue información que no se encontraba presente en el diagrama inicial
+para que cumpla con la condición de deducción.
+El diagrama dialógico cumple con lo esperado por la deducción.
+Por más que en el diálogo no se llegue a la conclusión *necesariamente*,
+puesto que hay casos en los que los díalogos pueden terminar antes de que se alcance la conclusión,
+diálogos en donde el oponente (u proponente) no puede realizar ningún otro movimiento,
+el paso final es afirmar quién ganó el juego.
+^[Los díalogos al dar cuenta de  una perspectiva pragmática por medio de los movimientos de los roles en el juego
+permiten a la vez mostrar cómo es posible llegar a la conclusión de la tesis (si es una tesis válida)
+y determinar la validez de la misma. (**OJO:** No estoy muy convencido de esta nota al pie.)]
 
 <!-- Posible conclusión -->
 ## Observaciones finales
