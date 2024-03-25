@@ -634,12 +634,48 @@ De hecho, sería mucho más util simplemente realizar una demostración de la va
 Con esto no queremos decir que la información no es completa ni imperfecta,
 sino que los roles parten de dicho *common ground* y luego es posible que el proponente llegue o no a una estrategia ganadora.
 
+Esto puede verse en la distinción que realiza @pietarinen2007 acerca de los contextos de los juegos.
+Para él los juegos se pueden encontrar entre tres contextos diferentes:
+
+* Contextos A: contextos donde puede haber ciertos "movimientos posibles"
+  en donde un tercer jugador (la Naturaleza) realiza movimientos
+  que hacen que cambien los contextos para cada una de las jugadas.
+  Esto hace referencia al conocimiento comúnn que hay entre los jugadores [@pietarinen2007, 232].
+* Contextos B: contextos en donde implican lo que es dado por acciones previas y la historia de los jugadores.
+  Tiene que ver con la coreferencia. Aquí se ven todas las situaciones donde la situaciones son mutables y acumulativas.
+  [@pietarinen2007, 233]
+* Contextos C: Contextos que hacen que el juego sea un sistema abierto,
+  es decir, permiten que entre información desde afuera del juego dado el ambiente en el que se encuentran los jugadores.
+  [@pietarinen2007, 233]
+
+Desde una perspectiva de la teoría de los juegos, como la sostenida en @pietarinen2007,
+es claro que la dialógica tiene contextos A y B pero no C.
+En ningún momento del diálogo se introduce nueva información desde el exterior del diálogo.
+También en los gráficos existenciales Peirce considera contextos A y B, al menos para los gráficos alfa y beta.
+En los gráficos gamma es donde por medio de las modalidades y del uso de tinturas hay una introducción de contextos C.
+Con esto podemos decir que algunos sistemas dialógicos también pueden introducir contextos C,
+como ser las modalidades y todas las lógicas que se puedan derivar de ellas
+(como la epistémica, la deóntica, solo por nombrar algunas).
+
+Si se conjenian estas cuestiones de los contextos de la teoría de juegos con la noción de experiencia colateral de la semiótica,
+podemos ver que la distinción de los contextos es un poco más refinada que la experiencia colateral.
+Si bien la experiencia colateral conlleva a todos los interpretantes previos acerca de un determinado fenómeno,
+no realiza una distinción minuciosa como lo hace la noción de contexto en la teoría de juegos.
+La experiencia colateral que se entra a disposición en la dialógica y en los gráficos existenciales,
+al menos en los sistemas alfa y beta, tiene que ver con los contextos A y B, mas que con el contexto C.
+Sin embargo, aquello que enfoca la teoría de juegos es diferente a la semiótica.
+La primera tiene como propósito analizar los fenómenos como si estos fuesen juegos para dar cuenta de ciertas propiedades
+que de otra manera no se podrían explicitar.
+La segunda indaga el proceso por el cual los agentes hacen uso y conforman signos para diversos propósitos.
+Lo similar es que ambas teorías, al menos para los casos de estudio de la lógica,
+necesitan de la presentación y existencia de dos construciones teóricas como ser la de los roles.
+
 Semióticamente tiene sentido que el diálogo se de hasta alcanzar el interpretante deseado por el proponente.
 Sino, no habría necesidad de hacer los movimientos del diálogo.
 El oponente ya se encontraría determinado ha perder el juego ante cada tesis válida,
-no habría una necesida de mostrar el aspecto dialógico del mismo.
+no habría una necesidad de mostrar el aspecto dialógico del mismo.
 
-Si ambos roles poseen la información completa y perfecta,
+Si ambos roles poseen información completa y perfecta,
 no hay necesidad de que se produzca ninguna situación semiótica posible.
 El proponente al enunciar la tesis lógica
 (si esta es una fórmula válida)
@@ -786,12 +822,13 @@ Siguiendo a la definición de deducción de Peirce,
 en ningún momento esta nos dice que debemos *necesariamente*
 extraer *unicamente* la conclusión de la tesis.
 La deducción de Peirce es amplia,
-basta con que nos otorgue información que no se encontraba presente en el diagrama inicial
-para que cumpla con la condición de deducción.
-El diagrama dialógico cumple con lo esperado por la deducción.
-Por más que en el diálogo no se llegue a la conclusión *necesariamente*,
+basta con que el proceso deductivo nos otorgue información
+que no se encontraba presente en el diagrama inicial
+para que cumpla con la condición de la deducción.
+El diagrama dialógico cumple con lo esperado por la deducción peircena.
+Por más que en el diálogo no llegue a la conclusión *necesariamente*,
 puesto que hay casos en los que los díalogos pueden terminar antes de que se alcance la conclusión,
-diálogos en donde el oponente (u proponente) no puede realizar ningún otro movimiento,
+u otros casos donde en los diálogos el oponente (u proponente) no puede realizar ningún otro movimiento,
 el paso final es afirmar quién ganó el juego.
 ^[Los díalogos al dar cuenta de  una perspectiva pragmática por medio de los movimientos de los roles en el juego
 permiten a la vez mostrar cómo es posible llegar a la conclusión de la tesis (si es una tesis válida)
@@ -800,10 +837,10 @@ y determinar la validez de la misma. (**OJO:** No estoy muy convencido de esta n
 <!-- Posible conclusión -->
 ## Observaciones finales
 Es claro que la dialógica es mucho más acotada que la semiótica peirceana.
-Algunos podrían decir que la semiótica peirceana puede tratar absolutamente cualquier objeto de estudio posible.
-Esto se debe a que para Peirce todo puede ser un signo potencial.
+Algunos podrían decir que la semiótica peirceana puede tratar absolutamente cualquier objeto como un signo posible.
+Esto se debe a que para Peirce todo puede ser un potencial signo de algo para alguien.
 Esto podría llegar a ser considerado como un error de la teoría.
-Si todo es signo potencial, entonces no hay umbral posible para demarcar lo que no es un signo.
+Si todo es un signo potencial, entonces no hay umbral posible para demarcar lo que no es un signo.
 Y si todo es un signo, nada es un signo,
 puesto que para poder definir cualquier noción tengo que encontrar algún limitante para demarcar diferencias.
 
@@ -829,8 +866,30 @@ y en paralelo con el desarollo de la *game-theoretical semantics*.
 Los actuales referentes de la dialógica, la *escuela de Lille* han tomado un camino distinto al propuesto aquí.
 Han seguido con el trasfondo filosófico de la dialógica y han extendido,
 mejorando ante varias de las objeciones
-(como hemos visto en el capítulo de la dialógica).
+^[Como hemos visto en el capítulo de la dialógica].
 
+Consideramos que es sumamente provechoso añadir a la semiótica a la dialógica.
+Hay quienes pueden objetar esto diciendo que consideradas como dos teorías,
+son dos encuendres con finalidades distintas y que solo añadiría complejidad para poder analizar los sistemas lógicos.
+Nosotros nos encontramos en la antipodas de esta objeción.
+Como bien destacamos en la introducción [TODO: agregar la referencia de la intro.]
+tomamos la imagen de la *matrioshka* rusa para mostrar como a partir de encuadres distintos
+(pragmatismo peirceano, semiótica, dialógica)
+se puede entender mejor entender mejor y dar cuenta de la lógica diagramática de Peirce.
+
+El potencial de esta interpretación semiótica de la dialógica tiene mucho
+para aportar al desarollo de la lógica dialógica misma.
+Teniendo en cuenta los desarrollos de las lógicas dialógicas de @keiff2007 y @rahman2005,
+se pueden interpretar todas las dialógicas desarrolladas hasta el momento en un sentido semiótico.
+La noción de agentes semióticos puede explotarse conjuntamente con la noción del rol dentro del diálogo.
+No tiene porqué pensarse en contexto únicamente humanos.
+La semiótica puede llevarlo al campo de la biosemiótica,
+a la interacción entre cliente y servidor, solo por nombrar algunos.
+
+Con todo esto ahora nos queda poder llevar a cabo una traducción de los gráficos existenciales a la dialógica.
+Para esto será necesario poder primero que nada determinar
+que tipo de traducción vamos a realizar y cómo la vamos a hacer.
+Para luego realizarla y ver cuáles son las características destacadas de dicha traducción.
 
 ## Referencias {.unnumered}
 ::: {#refs}
