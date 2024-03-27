@@ -234,6 +234,23 @@ no otorga un significado semiótico, sino que se queda en el plano del juego ent
 Ver que se puede sacar de particular de alguna de las reglas,
 pensar en el condicional. Releer a Lorenz sobre esto]
 
+Lo novedoso de la dialógica respecto de la teoría de modelos
+y la teoría de la demostración es la introducción de lo roles y de las acciones que estos pueden realizar.
+Explicar la lógica por medio de lo que se puede hacer a través de ataques y defensas realizadas por roles es única
+de un teoría que se sustenta en la teoría del juego @vanbenthem2014.
+
+El análisis semiótico de los ataques y defensas de cada una de las reglas particulares
+puede otorgarnos mejor comprensión respecto de lo que es cada una de las conectivas lógicas
+o, a lo sumo, una nueva presentación que es distinta de las tradicionales dentro de la literatura lógica.
+
+Como ya se ha aclarado en el capítulo de la dialógica[TODO: agregar referencia del capítulo y parágrafo],
+las reglas particulares otorgan el significado a cada una de las conectivas en base a los ataques y defensas [@clerbout2022].
+De manera similar en que un signo adquiere significado para algún agente
+a través del proceso semiótico entre el *representamen*, el objeto y el interpretante.
+
+Asi uno puede ver cómo sucede puede considerar lo que está haciendo la conjunción,
+la disyunción, el condicional y los cuantificadores (para el caso de la lógica de primer orden).
+
 Las nociones de proponente y oponente pueden tener alguna connotación de competencia.
 Es decir, alguna noción de que lo que busca uno de los roles (el oponente) es oponerse sin tal o cual.
 Consideramos que es una mirada de alguna antropocéntrica,
