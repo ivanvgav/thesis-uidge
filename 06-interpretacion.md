@@ -877,7 +877,7 @@ y en paralelo con el desarollo de la *game-theoretical semantics*.
 Los actuales referentes de la dialógica, la *escuela de Lille* han tomado un camino distinto al propuesto aquí.
 Han seguido con el trasfondo filosófico de la dialógica y han extendido,
 mejorando ante varias de las objeciones
-^[Como hemos visto en el capítulo de la dialógica].
+^[Como hemos visto en el capítulo de la dialógica. TODO: Agregar referencia].
 
 Consideramos que es sumamente provechoso añadir a la semiótica a la dialógica.
 Hay quienes pueden objetar esto diciendo que consideradas como dos teorías,
