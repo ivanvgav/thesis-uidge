@@ -234,6 +234,50 @@ no otorga un significado semiótico, sino que se queda en el plano del juego ent
 Ver que se puede sacar de particular de alguna de las reglas,
 pensar en el condicional. Releer a Lorenz sobre esto]
 
+<!-- Tabla con cada una de las reglas particulares -->
+<table class="all-rules avoid-break cell-center cellpad-small-dense centered vert-mid">
+<thead>
+<tr>
+  <td style="border-left:none; border-top:none"></td>
+<th class="italic">Statement</th>
+<th class="italic">Challenge</th>
+<th class="italic">Defence</th> </tr> </thead>
+<tbody>
+<tr>
+<th class="italic">Conjunction</th>
+  <td>\(\mathbf{X}\state \varphi\land\psi\)</td>
+  <td>\(\mathbf{Y}\rqst L^{\land}\) or \(\mathbf{Y}\rqst
+R^{\land}\)</td>
+  <td>\(\mathbf{X}\state \varphi\) (resp.) \(\mathbf{X}\state
+\psi\)</td> </tr>
+<tr>
+<th class="italic">Disjunction</th>
+  <td>\(\mathbf{X}\state \varphi\lor\psi\)</td>
+  <td>\(\mathbf{Y}\rqst_{\lor}\)</td>
+  <td>\(\mathbf{X}\state \varphi\) or \(\mathbf{X}\state \psi\)</td>
+</tr>
+<tr>
+<th class="italic">Implication</th>
+  <td>\(\mathbf{X}\state \varphi\supset\psi\)</td>
+  <td>\(\mathbf{Y}\state \varphi\)</td>
+  <td>\(\mathbf{X}\state \psi\)</td> </tr>
+<tr>
+<th class="italic">Negation</th>
+  <td>\(\mathbf{X}\state \neg\varphi\)</td>
+  <td>\(\mathbf{Y}\state \varphi\)</td>
+  <td>\(--\)</td> </tr>
+<tr>
+<th class="italic">Universal quantification</th>
+  <td>\(\mathbf{X}\state \forall x\varphi(x)\)</td>
+  <td>\(\mathbf{Y}\rqst [x/a_{i}]\)</td>
+  <td>\(\mathbf{X}\state \varphi(x/a_{i})\)</td> </tr>
+<tr>
+<th class="italic">Existential quantification</th>
+  <td>\(\mathbf{X}\state \exists x\varphi(x)\)</td>
+  <td>\(\mathbf{Y}\rqst_{\exists}\)</td>
+  <td>\(\mathbf{X}\state \varphi(x/a_{i})\)</td> </tr> </tbody>
+</table>
+
 Las nociones de proponente y oponente pueden tener alguna connotación de competencia.
 Es decir, alguna noción de que lo que busca uno de los roles (el oponente) es oponerse sin tal o cual.
 Consideramos que es una mirada de alguna antropocéntrica,
