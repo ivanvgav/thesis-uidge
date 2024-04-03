@@ -278,6 +278,50 @@ R^{\land}\)</td>
   <td>\(\mathbf{X}\state \varphi(x/a_{i})\)</td> </tr> </tbody>
 </table>
 
+Algo que llama la atención a primera vista cuando vemos los ataques
+y las defensas de cada una de las conectivas es que el único espacio vacío que hay en toda la tabla
+se encuentran en la negación.
+Al ser una conectiva monádica una plausible explicación es
+una vez afirmado el la proposición atómica no hay nada que defender.
+Visto de manera semiótica los agentes aceptan dentro del *common ground* a dicha proposición,
+por lo que no tiene que haber ningún otro interpretante para defender la negación.
+
+En la conjunción y en la disyunción ocurren movimientos similares, pero no iguales.
+En la conjunción quien ataca pregunta por alguno de los coyuntos y quien defiende elije a uno de ellos para afirmar.
+La conjunción hace que sea el agente
+quien la afirma es quien tenga que responder con un interpretante que de lugar a alguna de los coyuntos.
+En la disyunción quien ataca pregunta por alguno de los disyuntos pero quien defiende pone a disposición los disyuntos,
+es decir el atacante *debe* elegir uno de los disyuntos.
+La disyunción hace que el interpretante quede en manos de quien ataca a la disyunción,
+va a tener que optar por la disyunción que se encuentre dentro de su *common ground*.
+
+En el condicional los movimientos hacen recordar al *modus ponens*.
+Ante un condicional afirmado por alguno de los agentes,
+si el otro agente concede el antecedente,
+entonces quien afirmó el condicional puede afirmar el consecuente.
+Semióticamente quien afirma el condicional espera del otro agente la afirmación del antecedente
+para que pueda afirmar el consecuente.
+Esa afirmación del antecedente puede darse por varias razones:
+el universo del discurso donde surge el diálogo se permite que se afirme el antecedente,
+el agente concede el antecedente por mor del argumento,
+por ejemplo para experimentación para ver hasta donde llega el agente que propone el condicional.
+Peirce hizo mucho hincapié en el condicional desde su juventud
+-siendo parte de la *cognition series* [TODO: buscar referencias]-
+en su época donde se desprende de la lógica de Boole como ser @peirce1880 y @peirce1885
+hasta en su madurez cuando habla del scroll y del doble corte en varios escritos de los gráficos existenciales.
+[TODO: buscar referencias]
+Y en todos los análisis del condicional da cuenta sea por medio de lógica algebraica o por medio de lógica diagramática
+de lo que la dialógica está mostrando con la regla particular del condicional.
+
+<!-- Acerca de los cuantificadores. Hacer referencia a la GTS -->
+<!-- y buscar lo que Peirce habla acerca de cada uno de los cuantificadores -->
+
+<!-- Breve resumen del análisis de cada una de las reglas particulares -->
+Como puede verse las respuestas que realizan los agentes en la dialógica pueden entenderse como los interpretantes 
+que tienen que hacer los agentes en los diálogos para poder intentar llegar a una estrategia ganadora
+o bien frustrar la afirmación de la tesis.
+
+<!-- Acerca de la competitividad de los ataques y defensas -->
 Las nociones de proponente y oponente pueden tener alguna connotación de competencia.
 Es decir, alguna noción de que lo que busca uno de los roles (el oponente) es oponerse sin tal o cual.
 Consideramos que es una mirada de alguna antropocéntrica,
