@@ -235,48 +235,61 @@ Ver que se puede sacar de particular de alguna de las reglas,
 pensar en el condicional. Releer a Lorenz sobre esto]
 
 <!-- Tabla con cada una de las reglas particulares -->
-<table class="all-rules avoid-break cell-center cellpad-small-dense centered vert-mid">
-<thead>
-<tr>
-  <td style="border-left:none; border-top:none"></td>
-<th class="italic">Statement</th>
-<th class="italic">Challenge</th>
-<th class="italic">Defence</th> </tr> </thead>
-<tbody>
-<tr>
-<th class="italic">Conjunction</th>
-  <td>\(\mathbf{X}\state \varphi\land\psi\)</td>
-  <td>\(\mathbf{Y}\rqst L^{\land}\) or \(\mathbf{Y}\rqst
-R^{\land}\)</td>
-  <td>\(\mathbf{X}\state \varphi\) (resp.) \(\mathbf{X}\state
-\psi\)</td> </tr>
-<tr>
-<th class="italic">Disjunction</th>
-  <td>\(\mathbf{X}\state \varphi\lor\psi\)</td>
-  <td>\(\mathbf{Y}\rqst_{\lor}\)</td>
-  <td>\(\mathbf{X}\state \varphi\) or \(\mathbf{X}\state \psi\)</td>
-</tr>
-<tr>
-<th class="italic">Implication</th>
-  <td>\(\mathbf{X}\state \varphi\supset\psi\)</td>
-  <td>\(\mathbf{Y}\state \varphi\)</td>
-  <td>\(\mathbf{X}\state \psi\)</td> </tr>
-<tr>
-<th class="italic">Negation</th>
-  <td>\(\mathbf{X}\state \neg\varphi\)</td>
-  <td>\(\mathbf{Y}\state \varphi\)</td>
-  <td>\(--\)</td> </tr>
-<tr>
-<th class="italic">Universal quantification</th>
-  <td>\(\mathbf{X}\state \forall x\varphi(x)\)</td>
-  <td>\(\mathbf{Y}\rqst [x/a_{i}]\)</td>
-  <td>\(\mathbf{X}\state \varphi(x/a_{i})\)</td> </tr>
-<tr>
-<th class="italic">Existential quantification</th>
-  <td>\(\mathbf{X}\state \exists x\varphi(x)\)</td>
-  <td>\(\mathbf{Y}\rqst_{\exists}\)</td>
-  <td>\(\mathbf{X}\state \varphi(x/a_{i})\)</td> </tr> </tbody>
-</table>
+\begin{table}
+    \centering
+    \begin{tabular}{|l|l|l|}
+    \hline
+        Statement & Challenge & Defence \\ \hline
+        Conjunction & $(\mathbf{X} ! \varphi\land\psi)$ & $(\mathbf{Y} ? L^{\land})$ or $(\mathbf{Y} ? R^{\land})$ \\ \hline
+        Disjunction & $(\mathbf{X} ! \varphi\lor\psi)$ & $(\mathbf{Y} ?_{\lor})$ \\ \hline
+        Implication & $(\mathbf{X} ! \varphi\supset\psi)$ & $(\mathbf{Y} ! \varphi)$ \\ \hline
+        Negation & $(\mathbf{X} ! \neg \varphi)$ & $(\mathbf{Y} ! \varphi)$ \\ \hline
+        Universal quantification & $(\mathbf{X} ! \forall x \varphi(x))$ & $(\mathbf{Y} ? [x/a_{i}])$ \\ \hline
+        Existential quantification & $(\mathbf{X} ! \exists x \varphi(x))$ & $(\mathbf{Y} ?_{\exists})$ \\ \hline
+    \end{tabular}
+\end{table}
+
+<!-- <table class="all-rules avoid-break cell-center cellpad-small-dense centered vert-mid"> -->
+<!-- <thead> -->
+<!-- <tr> -->
+<!--   <td style="border-left:none; border-top:none"></td> -->
+<!-- <th class="italic">Statement</th> -->
+<!-- <th class="italic">Challenge</th> -->
+<!-- <th class="italic">Defence</th> </tr> </thead> -->
+<!-- <tbody> -->
+<!-- <tr> -->
+<!-- <th class="italic">Conjunction</th> -->
+<!--   <td>$(\mathbf{X} \state \varphi\land\psi)$</td> -->
+<!--   <td>$(\mathbf{Y} \rqst L^{\land})$ or $(\mathbf{Y} \rqst R^{\land})$</td> -->
+<!--   <td>$(\mathbf{X} \state \varphi)$ (resp.) $(\mathbf{X} \state \psi)$</td> </tr> -->
+<!-- <tr> -->
+<!-- <th class="italic">Disjunction</th> -->
+<!--   <td>$(\mathbf{X} \state \varphi\lor\psi)$</td> -->
+<!--   <td>$(\mathbf{Y} \rqst_{\lor})$</td> -->
+<!--   <td>$(\mathbf{X} \state \varphi)$ or $(\mathbf{X} \state \psi)$</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <th class="italic">Implication</th> -->
+<!--   <td>$(\mathbf{X} \state \varphi\supset\psi)$</td> -->
+<!--   <td>$(\mathbf{Y} \state \varphi)$</td> -->
+<!--   <td>$(\mathbf{X} \state \psi)$</td> -->
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- <th class="italic">Negation</th> -->
+<!--   <td>$(\mathbf{X} \state \neg \varphi)$</td> -->
+<!--   <td>$(\mathbf{Y} \state \varphi)$</td> -->
+<!--   <td>$(--)$</td> </tr> -->
+<!-- <tr> -->
+<!-- <th class="italic">Universal quantification</th> -->
+<!--   <td>$(\mathbf{X} \state \forall x \varphi(x))$</td> -->
+<!--   <td>$(\mathbf{Y} \rqst [x/a_{i}])$</td> -->
+<!--   <td>$(\mathbf{X} \state \varphi(x/a_{i}))$</td> </tr> -->
+<!-- <tr> -->
+<!-- <th class="italic">Existential quantification</th> -->
+<!--   <td>$(\mathbf{X} \state \exists x \varphi(x))$</td> -->
+<!--   <td>$(\mathbf{Y} \rqst_{\exists})$</td> -->
+<!--   <td>$(\mathbf{X} \state \varphi(x/a_{i}))$</td> </tr> </tbody> -->
+<!-- </table> -->
 
 Algo que llama la atención a primera vista cuando vemos los ataques
 y las defensas de cada una de las conectivas es que el único espacio vacío que hay en toda la tabla
@@ -912,6 +925,21 @@ Cuando tenemos una estrategia ganadora,
 la experimentación finaliza puesto que hemos encontrado
 que dicha tesis tiene una estrategia ganadora.
 No podemos seguir experimentando con ella.
+
+<!-- Hablar sobre la cuestion colorarial y teoremática aquí -->
+Cabe destacar que los procesos deductivos llevados a cabo por parte de la dialógica son corolariales.
+Peirce realiza una distinción entre distintos tipos de deducción,
+unas que *no* apelan a ningún elemento externo de las premisas para demostrar la conclusión;
+otras que *si* apelan a elementos externos que van más allá de las premisas para demostrar la conclusión.
+Las primeras son denominadas deducciones corolariales, las segundas deducciones teoremáticas.
+[TODO: Agregar referencias]
+En el caso de los diálogos no hay ningún elemento externo por lo que las demostraciones son corolariales.
+Sin embargo, el modo en que se encuentra definida cada una de las conectivas lógicas
+y los modos en que el juego dialógico se da,
+otorgan distinta información al de una deducción entendida en sentido estándar.
+Es decir que los diálogos permiten representar ciertos aspectos de la deducción
+que la demostración estándar no.
+Siendo que la deducción es un conjunto de iconos permite representar los movimientos para alcanzar la conclusión.
 
 Otra posible objeción a esta interpretación que estamos haciendo es que
 el diálogo es un mecanismo de decisión
