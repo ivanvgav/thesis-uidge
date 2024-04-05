@@ -10,7 +10,7 @@ book:
   chapters:
     - index.qmd
     # - agradecimientos.md
-    # - 01-intro.md
+    - 01-intro.md
     # - 02-pragmatismo.md
     # - 03-semiotica.md
     # - 04-ge.md
