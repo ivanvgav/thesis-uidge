@@ -175,13 +175,42 @@ Como ejemplo pone que consideró que la noción de transitividad no sea cómo la
 Carus acota que esto de por sí no es una ley necesaria de la lógica aristotélica
 y la cuestiona colocando ejemplos que, dado como se encuentra ejemplificada la transitividad,
 no son transitivos.
-Además Carus no discute la noción de no aristotélico de Peirce porque no termine de comprender a lo que el pragmatista hace referencia con ello.
+Además Carus no discute la noción de no aristotélico de Peirce
+porque no termine de comprender a lo que el pragmatista hace referencia con ello.
 Lo que si diferencia a Carus de Peirce es que él no considera que la las lógicas aristotélicas lleven a falsedades.
+Los ejemplos de Carus son relaciones no simétricas
+que van a cuento de lo trabajado en ese momento entre Russell y Peirce sobre Schöeder.
+La relación de 'ser primo de' depende del entorno familiar y de cómo sea el orden de los sujetos.
+El único caso en que sea transitivo es que A y B tengan otra relación entre sí: la de hermanos.
+Esto implica agregar una relación más entre A y B.
+La relación de 'estar debajo de $x$ pies' acumula cada vez más pies si los objetos están uno debajo del otro.
+
+Lo que más nos llama la atención de las cartas es que Peirce aduce
+que fue otro escritor quien le dijo que iba a llegar a conclusiones falsas
+y que era una locura realizar una investigación basándose en que puede haber alguna lógica no aristotélica.
+Peirce nunca aclara quien puede ser ese escritor.
+Russell no parece ser porque en las cartas siguientes a las
+que retoma Carus no hay ningún registro que se vuelva a hablar de lógicas no aristotélicas.
+Russell y Peirce siguen la discusión acerca de los textos de Schöeder
+y luego hablan acerca de una reseña de una obra de Shoëder
+y luego acerca de problemas monetarios de Peirce y de una apendicitis
+que tuvo la esposa de Peirce y del pedido de ayuda monetaria por parte de Russell y Carus.
+[TODO: agregar listado de cartas y referencia de robinson2022.]
+
+En la busqueda de ese escritor desconocido nos adentramos en la relación entre Peirce y Hugh McColl,
+matemático y lógico de origen británico y residencia francesa.
+Le prestamos atención debido a que algunos intepretes contemporáneos de su obra han hablado de que McColl fue el iniciador del pluralismo lógico.
 
 ## Hugh McColl y Peirce
 <!-- Breve reseña de quien fue McColl. -->
+<!-- Hablar desde cuando McColl y Peirce se cartean. -->
 <!-- La discusión entre el pluralismo o no de él. -->
+<!-- Influencia de McColl en Peirce -->
 
+En conclusión, no hay registro certero que haya sido McColl quien niegue a Peirce
+ni tampoco que haya contribuido a Peirce en generar las hipótesis de lógica no aristotélica.
+Esto no quita que ambos se llevaron muy bien
+y se respetaban como colegas.
 
 ## Vasiliev y Peirce
 <!-- Mostrar brevemente las ideas de Vasiliev y cómo se originaron en base a las ideas de Peirce -->
