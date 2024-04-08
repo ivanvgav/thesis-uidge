@@ -84,7 +84,14 @@ y que fue publicada en el mismo volumen [@carus1910].
 <!-- Colocar las cartas de Peirce y analizarlas a ambas. -->
 <!-- Mostrar el ejemplo del propio Peirce sobre Barbara -->
 <!-- TODO: Traducir las cartas -->
-<!-- > "Before I took up the general study of relatives, I made some investigation into the consequences of supposing the laws of logic to be different from what they are. It was a sort of non-Aristotelian logic, in the sense in which we speak of non-Euclidean geometry. Some of the developments were somewhat interesting, but not sufficiently so to induce me to publish them. The general idea was, of course, obvious to anybody of sufficient grasp of logical analysis to see that logic reposes upon certain positive facts, and is not mere formalism. Another writer afterward suggested such a false logic, as if it were the wildest lunacy, instead of being a plain and natural hypothesis worth looking into [notwithstanding its falsity]." (Carta a Francis Russell) -->
+<!-- "Before I took up the general study of relatives, I made some investigation into the consequences of supposing the laws of logic to be different from what they are. It was a sort of non-Aristotelian logic, in the sense in which we speak of non-Euclidean geometry. Some of the developments were somewhat interesting, but not sufficiently so to induce me to publish them. The general idea was, of course, obvious to anybody of sufficient grasp of logical analysis to see that logic reposes upon certain positive facts, and is not mere formalism. Another writer afterward suggested such a false logic, as if it were the wildest lunacy, instead of being a plain and natural hypothesis worth looking into [notwithstanding its falsity]." (Carta a Francis Russell) -->
+
+Las carta que origina la noción de lógica no aristotélica fue realizada alrededor de 1895,
+cuando Peirce y Francis C. Russell se encontraban discutiendo y analizando
+la obra de Schöeder *Logik der Relative* de 1895.
+En una serie de cartas datadas a fines de 1895 se encuentra este extracto de carta,
+la cual se encuentra perdida pero que fue recuperada por una copia que poseía la esposa de Russell
+y fue enviada a Miss Cook el 10 de Noviembre de 1909. [@robinson2022, 453]
 
 > "Antes de llevar a cabo el estudio general de los relativos,
 hice alguna investigación acerca de las consecuencias de suponer que 
@@ -94,32 +101,57 @@ en el sentido del que se habla de geometría no euclidiana.
 Algunos de sus desarrollos son algo interesantes,
 pero no fueron lo suficiente para que me indujeran a publicarlos.
 La idea general fue, por supuesto,
-obia para cualquier que tenga suficiencia de análisis lógico para ver que
+obvia para cualquier que tenga suficiencia de análisis lógico para ver que
 la lógica descansa sobre ciertos hechos positivos,
 y no es un mero formalismo.
 Otro escritor luego sugirió que esto era una lógica falsa,
 como si fuese la locura más salvaje,
 en vez de realizar una natural y simple hipótesis que valga la pena investigar
-[no obstante su falsedad]."
+[no obstante su falsedad]." [@robinson2022, 590; para ver carta sin editar @robinson2022, 453]
 
-<!-- > "It does not seem to me to have been a lunatic study. On the contrary, perhaps if I had pursued it further, it might have drawn my attention to features of logic that had been overlooked. However, I came to the conclusion that it was not worth my while to pursue that line of thought further.  In order to show what sort of false hypotheses they were that I traced out to their consequences, I will mention that one of them was that instead of the form of necessary inference being, as it is, that from A being in a certain relation to B, and B in the same relation to C, it necessarily follows that A is in  the same relation to C, I supposed, in one case, that the nature of Reason  were such that the fundamental form of inference was, A is in a certain relation to B and B in the same relation to C, whence it necessarily follows that  C is in the same relation to A; and I followed out various other similar modifications of logic." -->
-<!-- > We deny "that from A being in a certain relation to B, and B  in the same relation to C, it necessarily follows that A is in the  same relation to C."  The statement is not a necessary inference  according to the established rules of logic, nor could it be considered  Aristotelian.   -->
-<!-- > If A stands in the relation of cousin to B, and B stands in the  same relation to C, it does not necessarily follow that A is a cousin  to C. Or take another instance. If A has a relation to B such as  lying 5 feet below B, and B has the same relation to C, it does not  follow that A lies 5 feet below C.   -->
-<!-- > We do not venture to discuss the non-Aristotelian substitute,  because we are not sure to have grasped the meaning which Mr.  Peirce intends to convey.   -->
-<!-- > We will further add that we never used the word "lunatic" in  connection with non-Aristotelian logic, nor would we say that it will  not be "worth looking into" the theory of a non-Aristotelian logic  "notwithstanding its falsity." [@carus1910, 158-159] -->
+Aquí se puede observar la idea también de Carus acerca de considerar a la lógica no aristotélica
+de manera análoga a la geometría no euclidiana.
+Peirce considera que lo desarrollado por él en este análsis no valía la pena publicarlo,
+por lo que no se cuentan con esos textos para analizarlos.
+Algo interesante a destacar de este extracto es que la Peirce no considera que sea un mero formalismo la lógica,
+sino que se basa en ciertos hechos positivos,
+alineado con su postura realista y también con la idea de que la lógica es una ciencia normativa.
+Sin embargo, acto seguido Peirce considera que esta hipótesis es completamente válida para trabajar e indagar.
+Fue otro escritor (no se sabe quien) el que sostuvo que la lógica que estaba analizando Peirce era falsa.
+Como luego se verá en la carta aclaratoria a este fragmento,
+Peirce niega que le haya parecido una locura estudiar este tipo de lógicas.
+Simplemente él no publicó sus avances porque consideró que no eran lo suficiente para que los demás lo vean.
+Esto tiene que ver con dos consideraciones filosóficas que siempre sostuvo Peirce:
+su falibilismo y la consideración que ninguna investigación tiene que ser bloqueada.
+La primera es la consideración de que ninguno de nuestro conocimiento es completamente certero,
+la segunda es una cuestión metodológica para el acercamiento a la verdad.
+Si bien es cierto que no siempre se tiene que analizar toda posible hipótesis,
+esto tiene que ver con una cuestión de la economía de la investigación,
+tema trabajado por Peirce en su denominada metodéutica.
 
-"'A mi no me pareció un estudio loco. Al contrario, quizás si hubisese continuado,
+A pedido de Carus, Peirce envía otra carta aclaratoria de la primera
+y Carus le realiza algunos comentarios que van de la mano con su propuesta
+acerca de la naturaleza de las matemáticas:
+
+<!-- "It does not seem to me to have been a lunatic study. On the contrary, perhaps if I had pursued it further, it might have drawn my attention to features of logic that had been overlooked. However, I came to the conclusion that it was not worth my while to pursue that line of thought further.  In order to show what sort of false hypotheses they were that I traced out to their consequences, I will mention that one of them was that instead of the form of necessary inference being, as it is, that from A being in a certain relation to B, and B in the same relation to C, it necessarily follows that A is in  the same relation to C, I supposed, in one case, that the nature of Reason  were such that the fundamental form of inference was, A is in a certain relation to B and B in the same relation to C, whence it necessarily follows that  C is in the same relation to A; and I followed out various other similar modifications of logic." -->
+<!-- We deny "that from A being in a certain relation to B, and B  in the same relation to C, it necessarily follows that A is in the  same relation to C."  The statement is not a necessary inference  according to the established rules of logic, nor could it be considered  Aristotelian.   -->
+<!-- If A stands in the relation of cousin to B, and B stands in the  same relation to C, it does not necessarily follow that A is a cousin  to C. Or take another instance. If A has a relation to B such as  lying 5 feet below B, and B has the same relation to C, it does not  follow that A lies 5 feet below C.   -->
+<!-- We do not venture to discuss the non-Aristotelian substitute,  because we are not sure to have grasped the meaning which Mr.  Peirce intends to convey.   -->
+<!-- We will further add that we never used the word "lunatic" in  connection with non-Aristotelian logic, nor would we say that it will  not be "worth looking into" the theory of a non-Aristotelian logic  "notwithstanding its falsity." [@carus1910, 158-159] -->
+
+> "'A mi no me pareció un estudio loco. Al contrario, quizás si hubisese continuado,
 habría llamado la ateción sobre ciertas características de la lógica que han sido pasadas por alto.
 Sin embargo, llegué a la conclusión que no vale la pena indagar esta línea de pensamiento.
 Para mostrar que clase de hipótesis falsas había analizado sus consecuencias,
 voy a mencionar aquella en que en vez de la forma necesaria de inferencia sea,
 como es, que de una forma A en cierta relación con B, y B en cierta relación con C,
 es necesario que se siga que A está en la misma relación que C,
-supongo, en un caso, que la naturaleza de la Razón sea tal que la forma fundamental de inferencia fuses,
+supongo, en un caso, que la naturaleza de la Razón sea tal que la forma fundamental de inferencia fuese,
 que A está en cierta relación con B y B está en cierta relación con C,
 por lo cual necesariamente se sigue que C se encuentra en la misma relación con A;
 y seguí otras modificaciones similares de la lógica.'
-Nosotros negamos
+> 
+> Nosotros negamos
 'que A está en cierta relación con B y B está en cierta relación con C,
 por lo cual necesariamente se sigue que A se encuentra en la misma relación con C.'
 Este enunciado no es una inferencia necesaria de acuerdo a lo establecido por las reglas de la lógica,
@@ -128,13 +160,23 @@ Si A establace una relación de primos con B, y B establece la misma relación c
 no es necesario que se siga que A es primo de C.
 O por tomar otro ejemplo. Si A tiene una relación con B tal que está 5 pies abajo de B,
 y B tiene la misma relación con C, no se sigue que A esté 5 pies abajo de C.
-
-No nos aventuramos a discutir el substituto no aristotélico,
+> 
+> No nos aventuramos a discutir el substituto no aristotélico,
 porque no estamos seguros de haber comprendido el significado que el señor Peirce intenta comunicar.
-
-Añadimos que nunca usamos la palabra 'lunático' en conexión con la lógica no aristotélica,
+> 
+> Añadimos que nunca usamos la palabra 'lunático' en conexión con la lógica no aristotélica,
 ni diríamos que no 'valdría la pena indagar' la teoría de la lógica no aristotélica
 'no obstante su falsedad'." [@carus1910, 158-159]
+
+Aquí de manera explícita se puede ver que Peirce no considera como una locura
+que se investiguen lógicas que vayan en contra de los principios aristotélicos.
+De alguna manera considera que incluso hubiese sido provechoso para la investigación lógica.
+Como ejemplo pone que consideró que la noción de transitividad no sea cómo la considera la lógica no clásica.
+Carus acota que esto de por sí no es una ley necesaria de la lógica aristotélica
+y la cuestiona colocando ejemplos que, dado como se encuentra ejemplificada la transitividad,
+no son transitivos.
+Además Carus no discute la noción de no aristotélico de Peirce porque no termine de comprender a lo que el pragmatista hace referencia con ello.
+Lo que si diferencia a Carus de Peirce es que él no considera que la las lógicas aristotélicas lleven a falsedades.
 
 ## Hugh McColl y Peirce
 <!-- Breve reseña de quien fue McColl. -->
