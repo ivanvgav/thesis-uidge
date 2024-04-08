@@ -84,13 +84,57 @@ y que fue publicada en el mismo volumen [@carus1910].
 <!-- Colocar las cartas de Peirce y analizarlas a ambas. -->
 <!-- Mostrar el ejemplo del propio Peirce sobre Barbara -->
 <!-- TODO: Traducir las cartas -->
-> "Before I took up the general study of relatives, I made some investigation into the consequences of supposing the laws of logic to be different from what they are. It was a sort of non-Aristotelian logic, in the sense in which we speak of non-Euclidean geometry. Some of the developments were somewhat interesting, but not sufficiently so to induce me to publish them. The general idea was, of course, obvious to anybody of sufficient grasp of logical analysis to see that logic reposes upon certain positive facts, and is not mere formalism. Another writer afterward suggested such a false logic, as if it were the wildest lunacy, instead of being a plain and natural hypothesis worth looking into [notwithstanding its falsity]." (Carta a Francis Russell)
+<!-- > "Before I took up the general study of relatives, I made some investigation into the consequences of supposing the laws of logic to be different from what they are. It was a sort of non-Aristotelian logic, in the sense in which we speak of non-Euclidean geometry. Some of the developments were somewhat interesting, but not sufficiently so to induce me to publish them. The general idea was, of course, obvious to anybody of sufficient grasp of logical analysis to see that logic reposes upon certain positive facts, and is not mere formalism. Another writer afterward suggested such a false logic, as if it were the wildest lunacy, instead of being a plain and natural hypothesis worth looking into [notwithstanding its falsity]." (Carta a Francis Russell) -->
 
-> "It does not seem to me to have been a lunatic study. On the contrary,  perhaps if I had pursued it further, it might have drawn my attention to  features of logic that had been overlooked. However, I came to the conclusion that it was not worth my while to pursue that line of thought further.  In order to show what sort of false hypotheses they were that I traced out to  their consequences, I will mention that one of them was that instead of the  form of necessary inference being, as it is, that from A being in a certain  relation to B, and B in the same relation to C, it necessarily follows that A is in  the same relation to C, I supposed, in one case, that the nature of Reason  were such that the fundamental form of inference was, A is in a certain relation to B and B in the same relation to C, whence it necessarily follows that  C is in the same relation to A; and I followed out various other similar modifications of logic."
-> We deny "that from A being in a certain relation to B, and B  in the same relation to C, it necessarily follows that A is in the  same relation to C."  The statement is not a necessary inference  according to the established rules of logic, nor could it be considered  Aristotelian.  
-> If A stands in the relation of cousin to B, and B stands in the  same relation to C, it does not necessarily follow that A is a cousin  to C. Or take another instance. If A has a relation to B such as  lying 5 feet below B, and B has the same relation to C, it does not  follow that A lies 5 feet below C.  
-> We do not venture to discuss the non-Aristotelian substitute,  because we are not sure to have grasped the meaning which Mr.  Peirce intends to convey.  
-> We will further add that we never used the word "lunatic" in  connection with non-Aristotelian logic, nor would we say that it will  not be "worth looking into" the theory of a non-Aristotelian logic  "notwithstanding its falsity." [@carus1910, 158-159]
+> "Antes de llevar a cabo el estudio general de los relativos,
+hice alguna investigación acerca de las consecuencias de suponer que 
+las leyes de la lógica sean diferentes de lo que son.
+Fue una clase de lógica no aristotélica,
+en el sentido del que se habla de geometría no euclidiana.
+Algunos de sus desarrollos son algo interesantes,
+pero no fueron lo suficiente para que me indujeran a publicarlos.
+La idea general fue, por supuesto,
+obia para cualquier que tenga suficiencia de análisis lógico para ver que
+la lógica descansa sobre ciertos hechos positivos,
+y no es un mero formalismo.
+Otro escritor luego sugirió que esto era una lógica falsa,
+como si fuese la locura más salvaje,
+en vez de realizar una natural y simple hipótesis que valga la pena investigar
+[no obstante su falsedad]."
+
+<!-- > "It does not seem to me to have been a lunatic study. On the contrary, perhaps if I had pursued it further, it might have drawn my attention to features of logic that had been overlooked. However, I came to the conclusion that it was not worth my while to pursue that line of thought further.  In order to show what sort of false hypotheses they were that I traced out to their consequences, I will mention that one of them was that instead of the form of necessary inference being, as it is, that from A being in a certain relation to B, and B in the same relation to C, it necessarily follows that A is in  the same relation to C, I supposed, in one case, that the nature of Reason  were such that the fundamental form of inference was, A is in a certain relation to B and B in the same relation to C, whence it necessarily follows that  C is in the same relation to A; and I followed out various other similar modifications of logic." -->
+<!-- > We deny "that from A being in a certain relation to B, and B  in the same relation to C, it necessarily follows that A is in the  same relation to C."  The statement is not a necessary inference  according to the established rules of logic, nor could it be considered  Aristotelian.   -->
+<!-- > If A stands in the relation of cousin to B, and B stands in the  same relation to C, it does not necessarily follow that A is a cousin  to C. Or take another instance. If A has a relation to B such as  lying 5 feet below B, and B has the same relation to C, it does not  follow that A lies 5 feet below C.   -->
+<!-- > We do not venture to discuss the non-Aristotelian substitute,  because we are not sure to have grasped the meaning which Mr.  Peirce intends to convey.   -->
+<!-- > We will further add that we never used the word "lunatic" in  connection with non-Aristotelian logic, nor would we say that it will  not be "worth looking into" the theory of a non-Aristotelian logic  "notwithstanding its falsity." [@carus1910, 158-159] -->
+
+"'A mi no me pareció un estudio loco. Al contrario, quizás si hubisese continuado,
+habría llamado la ateción sobre ciertas características de la lógica que han sido pasadas por alto.
+Sin embargo, llegué a la conclusión que no vale la pena indagar esta línea de pensamiento.
+Para mostrar que clase de hipótesis falsas había analizado sus consecuencias,
+voy a mencionar aquella en que en vez de la forma necesaria de inferencia sea,
+como es, que de una forma A en cierta relación con B, y B en cierta relación con C,
+es necesario que se siga que A está en la misma relación que C,
+supongo, en un caso, que la naturaleza de la Razón sea tal que la forma fundamental de inferencia fuses,
+que A está en cierta relación con B y B está en cierta relación con C,
+por lo cual necesariamente se sigue que C se encuentra en la misma relación con A;
+y seguí otras modificaciones similares de la lógica.'
+Nosotros negamos
+'que A está en cierta relación con B y B está en cierta relación con C,
+por lo cual necesariamente se sigue que A se encuentra en la misma relación con C.'
+Este enunciado no es una inferencia necesaria de acuerdo a lo establecido por las reglas de la lógica,
+ni puede ser considerada Aristotélica.
+Si A establace una relación de primos con B, y B establece la misma relación con C,
+no es necesario que se siga que A es primo de C.
+O por tomar otro ejemplo. Si A tiene una relación con B tal que está 5 pies abajo de B,
+y B tiene la misma relación con C, no se sigue que A esté 5 pies abajo de C.
+
+No nos aventuramos a discutir el substituto no aristotélico,
+porque no estamos seguros de haber comprendido el significado que el señor Peirce intenta comunicar.
+
+Añadimos que nunca usamos la palabra 'lunático' en conexión con la lógica no aristotélica,
+ni diríamos que no 'valdría la pena indagar' la teoría de la lógica no aristotélica
+'no obstante su falsedad'." [@carus1910, 158-159]
 
 ## Hugh McColl y Peirce
 <!-- Breve reseña de quien fue McColl. -->
