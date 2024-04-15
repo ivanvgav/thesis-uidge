@@ -254,9 +254,18 @@ realizaron la propuesta.
 Claro está que no es el objetivo de este trabajo el poder determinar si efectivamente McColl fue o no un pluralista,
 sino el poder ver si, considerando la propuesta de McColl, el lógico británico pudo ser quien desestimó la investigación de Peirce.
 
+Los principales aportes de McColl se encuentran en la revista Mind alrededor de la primera década de 1900
+y en su libro de 1906.
 <!-- Fundamentos en favor de McColl pluralista -->
+McColl puede ser considerado pluralista por varios cuestionamiento a algunas nociones fundamentales de la lógica clásica:
+la implicación, la existencia, la defensa de las modalidades de necesidad y posibilidad, su noció de proposición,
+por nombrar aquellas que discutió con Bertrand Russell [@grattan-guinness2011].
 
 <!-- Fundamentos en contra de McColl pluralista -->
+@grattan-guinness2011 es el principal opositor a la idea de que McColl sea un pluralista lógico.
+En todo caso es un monista lógico que desea expandir lo denominado como lógica.
+Es decir, no habla de diferentes sistemas lógicos ni de un meta-sistema como la metalógica
+para poder hablar acerca de multiplicidad de sistemas lógicos.
 
 <!-- Influencia de McColl en Peirce -->
 La influencia que pudo tener McColl en Peirce no parece ser muy profunda.
@@ -283,6 +292,10 @@ en el sentido de un matemático.
 En poder tratar de encontrar la solución más elegente al problema.
 Al enfocarse en la solución de problemas tiene sentido que
 proponga sistemas alternativos a la lógica clásica de ese momento.
+
+Por otro lado, todos los artículos y libros sobre lógica son posteriores a la primera carta
+que presenta Carus en su trabajo, datada de 1895.
+Es una larga diferencia de años la que hay para que McColl sea el escritor que habla Peirce en dicha correspondencia.
 
 En conclusión, no hay registro certero que haya sido McColl quien niegue a Peirce
 ni tampoco que haya contribuido a Peirce en generar las hipótesis de lógica no aristotélica.
