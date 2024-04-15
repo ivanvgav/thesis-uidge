@@ -236,7 +236,6 @@ que McColl fue el primero en proponer el pluralismo lógico.
 
 ## Hugh McColl y Peirce
 <!-- Breve reseña de quien fue McColl. -->
-<!-- Hablar desde cuando McColl y Peirce se cartean. -->
 <!-- La discusión entre el pluralismo o no de él. -->
 *Scholars* de la historia de la lógica han discutido el rol de McColl como lógico en general
 y como propulsor del estudio de sistemas lógicos que van más allá de la lógica clásica,
@@ -257,9 +256,18 @@ sino el poder ver si, considerando la propuesta de McColl, el lógico británico
 Los principales aportes de McColl se encuentran en la revista Mind alrededor de la primera década de 1900
 y en su libro de 1906.
 <!-- Fundamentos en favor de McColl pluralista -->
-McColl puede ser considerado pluralista por varios cuestionamiento a algunas nociones fundamentales de la lógica clásica:
-la implicación, la existencia, la defensa de las modalidades de necesidad y posibilidad, su noció de proposición,
-por nombrar aquellas que discutió con Bertrand Russell [@grattan-guinness2011].
+McColl puede ser considerado pluralista por varios cuestionamientos a algunas nociones fundamentales de la lógica clásica:
+la noción de implicación, la noción de existencia, la defensa de las modalidades de necesidad y posibilidad, su noción de proposición,
+solo por nombrar aquellas que discutió con Bertrand Russell [@grattan-guinness2011].
+
+Otros como @rahman2008 consideran que incluso propuso varios sistemas de lógicas como ser temporales,
+conexivos, relevantes, lógica probabilisticas.
+Considerado como uno de los primeros convencionalistas e intrumentalistas en lógica [@rahman2008, 534].
+
+Aunque se puede decir que su aporte más discutido fue el de considerar que
+las proposiciones tengan los valores de certeza, imposibilidad, contingente, verdadero, falso [@mccoll1906].
+Esto fue ampliamente discutido por lógicos y matemáticos contemporáneos de su época
+como Russell, Jourdain y [TODO: buscar el último lógico] [@grattan-guinness1998; @grattan-guinness2011].
 
 <!-- Fundamentos en contra de McColl pluralista -->
 @grattan-guinness2011 es el principal opositor a la idea de que McColl sea un pluralista lógico.
@@ -267,10 +275,36 @@ En todo caso es un monista lógico que desea expandir lo denominado como lógica
 Es decir, no habla de diferentes sistemas lógicos ni de un meta-sistema como la metalógica
 para poder hablar acerca de multiplicidad de sistemas lógicos.
 
+La propuesta de McColl no era la postura de una diversidad de sistemas lógicos,
+más bien discutía las nociones como la de proposición
+o la de implicación que sus colegas poseían en ese momento.
+En este sentido es que, no es estrictamente un pluralista
+sino más bien un monista con definiciones particulares de nociones lógicas.
+
+<!-- Hablar desde cuando McColl y Peirce se cartean. -->
+La correspondencia que se posee entre McColl y Peirce no se abundante
+pero de ella podemos extraer varias cuestiones acerca de su relación, de su consideración como lógicos
+y de la influencia entre ellos.
+Su primera correspondencia data de 1883.
+La útlima es una invitación a la segunda boda de McColl a Peirce, 
+años después del fallecimiento de su primera esposa.
+No hay evidencia certera acerca de si Peirce envió a McColl sus investigaciones en lógica no aristotélica.
+
+Las referencia que realiza Peirce acerca de los trabajo de McColl son anteriores a todos los trabajos que
+sus *scholars* toman para hablar de él como un pluralista lógica (W 4, 173, 182; 1880; W 4, 406-407, 1883; W 6, 5, 1886),
+en ese momento solo había publicado *El cálculo de enunciados equivalentes* de 1878.
+
 <!-- Influencia de McColl en Peirce -->
-La influencia que pudo tener McColl en Peirce no parece ser muy profunda.
-Como bien destaca Peirce, el lógico británico ve de una manera diferente a la lógica.
-[TODO: buscar referencia de las cartas de Peirce a McColl]
+La influencia acerca de las lógicas no aristotélicas que pudo tener McColl en Peirce no parece tal.
+Como bien destaca Peirce, el lógico británico ve de una manera diferente a la lógica:
+
+> [...] mis estudios en lógica simbólica se han diferenciados de los tuyos en que mi objetivo
+> no ha sido aplicar el sistema para solucionar problemas, como lo ha sido el tuyo,
+> sino en el estudio de la lógica en sí misma. (L 261, 1906).
+<!-- > [...] my studies in symbolic logic have differed from yours in that my aim -->
+<!-- > has not been to apply the system to the working out of problems, as yours -->
+<!-- > has, but to aid in the study of logic itself (L 261, 1906). -->
+
 Según Peirce, McColl considera a la lógica como una herramienta para la solución de problemas,
 mientras que él la considera como una herramienta para el análisis.
 Esto puede verse muy claramente en su propuesta de los gráficos existenciales
@@ -288,14 +322,15 @@ destacando su iconidad.
 
 McColl no tenía todas estas consideraciones de orden semiótico y de orden analítico.
 En sus trabajos promovia modos de resolver los problemas lógicos de la mejor manera posible,
-en el sentido de un matemático.
+en el mismo sentido que un matemático.
 En poder tratar de encontrar la solución más elegente al problema.
 Al enfocarse en la solución de problemas tiene sentido que
 proponga sistemas alternativos a la lógica clásica de ese momento.
-
-Por otro lado, todos los artículos y libros sobre lógica son posteriores a la primera carta
-que presenta Carus en su trabajo, datada de 1895.
-Es una larga diferencia de años la que hay para que McColl sea el escritor que habla Peirce en dicha correspondencia.
+De hecho, poseía una noción de lógica completamente lingüística [@chevalier2011, 139],
+inclusive considera que es ventajoso su cálculo de límites respecto de los diagramas [@mccoll1906, 140].
+^[Esto no quita que McColl haya influenciado a lo largo de toda su carrera a Peirce,
+sobre todo en el período algebraico previo a la carta que le escribe Peirce a Francis Russell.
+Si se desea profundizar en esto véase @anellis2011.]
 
 En conclusión, no hay registro certero que haya sido McColl quien niegue a Peirce
 ni tampoco que haya contribuido a Peirce en generar las hipótesis de lógica no aristotélica.
