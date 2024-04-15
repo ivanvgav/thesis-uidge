@@ -84,7 +84,17 @@ y que fue publicada en el mismo volumen [@carus1910].
 <!-- Colocar las cartas de Peirce y analizarlas a ambas. -->
 <!-- Mostrar el ejemplo del propio Peirce sobre Barbara -->
 <!-- TODO: Traducir las cartas -->
-<!-- "Before I took up the general study of relatives, I made some investigation into the consequences of supposing the laws of logic to be different from what they are. It was a sort of non-Aristotelian logic, in the sense in which we speak of non-Euclidean geometry. Some of the developments were somewhat interesting, but not sufficiently so to induce me to publish them. The general idea was, of course, obvious to anybody of sufficient grasp of logical analysis to see that logic reposes upon certain positive facts, and is not mere formalism. Another writer afterward suggested such a false logic, as if it were the wildest lunacy, instead of being a plain and natural hypothesis worth looking into [notwithstanding its falsity]." (Carta a Francis Russell) -->
+<!-- "Before I took up the general study of relatives, I made some
+investigation into the consequences of supposing the laws of logic to be
+different from what they are. It was a sort of non-Aristotelian logic, in the
+sense in which we speak of non-Euclidean geometry. Some of the developments
+were somewhat interesting, but not sufficiently so to induce me to publish
+them. The general idea was, of course, obvious to anybody of sufficient grasp
+of logical analysis to see that logic reposes upon certain positive facts, and
+is not mere formalism. Another writer afterward suggested such a false logic,
+as if it were the wildest lunacy, instead of being a plain and natural
+hypothesis worth looking into [notwithstanding its falsity]." (Carta a Francis
+Russell) -->
 
 Las carta que origina la noción de lógica no aristotélica fue realizada alrededor de 1895,
 cuando Peirce y Francis C. Russell se encontraban discutiendo y analizando
@@ -133,11 +143,33 @@ A pedido de Carus, Peirce envía otra carta aclaratoria de la primera
 y Carus le realiza algunos comentarios que van de la mano con su propuesta
 acerca de la naturaleza de las matemáticas:
 
-<!-- "It does not seem to me to have been a lunatic study. On the contrary, perhaps if I had pursued it further, it might have drawn my attention to features of logic that had been overlooked. However, I came to the conclusion that it was not worth my while to pursue that line of thought further.  In order to show what sort of false hypotheses they were that I traced out to their consequences, I will mention that one of them was that instead of the form of necessary inference being, as it is, that from A being in a certain relation to B, and B in the same relation to C, it necessarily follows that A is in  the same relation to C, I supposed, in one case, that the nature of Reason  were such that the fundamental form of inference was, A is in a certain relation to B and B in the same relation to C, whence it necessarily follows that  C is in the same relation to A; and I followed out various other similar modifications of logic." -->
-<!-- We deny "that from A being in a certain relation to B, and B  in the same relation to C, it necessarily follows that A is in the  same relation to C."  The statement is not a necessary inference  according to the established rules of logic, nor could it be considered  Aristotelian.   -->
-<!-- If A stands in the relation of cousin to B, and B stands in the  same relation to C, it does not necessarily follow that A is a cousin  to C. Or take another instance. If A has a relation to B such as  lying 5 feet below B, and B has the same relation to C, it does not  follow that A lies 5 feet below C.   -->
-<!-- We do not venture to discuss the non-Aristotelian substitute,  because we are not sure to have grasped the meaning which Mr.  Peirce intends to convey.   -->
-<!-- We will further add that we never used the word "lunatic" in  connection with non-Aristotelian logic, nor would we say that it will  not be "worth looking into" the theory of a non-Aristotelian logic  "notwithstanding its falsity." [@carus1910, 158-159] -->
+<!-- "It does not seem to me to have been a lunatic study. On the contrary,
+perhaps if I had pursued it further, it might have drawn my attention to
+features of logic that had been overlooked. However, I came to the conclusion
+that it was not worth my while to pursue that line of thought further.  In
+order to show what sort of false hypotheses they were that I traced out to
+their consequences, I will mention that one of them was that instead of the
+form of necessary inference being, as it is, that from A being in a certain
+relation to B, and B in the same relation to C, it necessarily follows that A
+is in  the same relation to C, I supposed, in one case, that the nature of
+Reason  were such that the fundamental form of inference was, A is in a certain
+relation to B and B in the same relation to C, whence it necessarily follows
+that  C is in the same relation to A; and I followed out various other similar
+modifications of logic." --> <!-- We deny "that from A being in a certain
+relation to B, and B  in the same relation to C, it necessarily follows that A
+is in the  same relation to C."  The statement is not a necessary inference
+according to the established rules of logic, nor could it be considered
+Aristotelian.   --> <!-- If A stands in the relation of cousin to B, and B
+stands in the  same relation to C, it does not necessarily follow that A is a
+cousin  to C. Or take another instance. If A has a relation to B such as  lying
+5 feet below B, and B has the same relation to C, it does not  follow that A
+lies 5 feet below C.   --> <!-- We do not venture to discuss the
+non-Aristotelian substitute,  because we are not sure to have grasped the
+meaning which Mr.  Peirce intends to convey.   --> <!-- We will further add
+that we never used the word "lunatic" in  connection with non-Aristotelian
+logic, nor would we say that it will  not be "worth looking into" the theory of
+a non-Aristotelian logic  "notwithstanding its falsity." [@carus1910, 158-159]
+-->
 
 > "'A mi no me pareció un estudio loco. Al contrario, quizás si hubisese continuado,
 habría llamado la ateción sobre ciertas características de la lógica que han sido pasadas por alto.
@@ -175,11 +207,11 @@ Como ejemplo pone que consideró que la noción de transitividad no sea cómo la
 Carus acota que esto de por sí no es una ley necesaria de la lógica aristotélica
 y la cuestiona colocando ejemplos que, dado como se encuentra ejemplificada la transitividad,
 no son transitivos.
-Además Carus no discute la noción de no aristotélico de Peirce
+Además Carus no discute la noción de *no aristotélico* de Peirce
 porque no termine de comprender a lo que el pragmatista hace referencia con ello.
 Lo que si diferencia a Carus de Peirce es que él no considera que la las lógicas aristotélicas lleven a falsedades.
-Los ejemplos de Carus son relaciones no simétricas
-que van a cuento de lo trabajado en ese momento entre Russell y Peirce sobre Schöeder.
+Los ejemplos de Carus son relaciones no simétricas,
+van a cuento de lo trabajado en ese momento entre Russell y Peirce sobre Schöeder.
 La relación de 'ser primo de' depende del entorno familiar y de cómo sea el orden de los sujetos.
 El único caso en que sea transitivo es que A y B tengan otra relación entre sí: la de hermanos.
 Esto implica agregar una relación más entre A y B.
@@ -199,18 +231,63 @@ que tuvo la esposa de Peirce y del pedido de ayuda monetaria por parte de Russel
 
 En la busqueda de ese escritor desconocido nos adentramos en la relación entre Peirce y Hugh McColl,
 matemático y lógico de origen británico y residencia francesa.
-Le prestamos atención debido a que algunos intepretes contemporáneos de su obra han hablado de que McColl fue el iniciador del pluralismo lógico.
+Le prestamos atención debido a que algunos intepretes contemporáneos de su obra han considerado
+que McColl fue el primero en proponer el pluralismo lógico.
 
 ## Hugh McColl y Peirce
 <!-- Breve reseña de quien fue McColl. -->
 <!-- Hablar desde cuando McColl y Peirce se cartean. -->
 <!-- La discusión entre el pluralismo o no de él. -->
+*Scholars* de la historia de la lógica han discutido el rol de McColl como lógico en general
+y como propulsor del estudio de sistemas lógicos que van más allá de la lógica clásica,
+o mejor dicho que no se fundamentan en ella.
+Particularmente en si puede considerarse el propulsor del pluralismo lógico.
+El pluralismo lógico es la postura dentro de la filosfía de la lógica
+que considera que no existe un único sistema de lógica correcto,
+más bien hay multiplicidad de sistemas lógicos los cuales pueden convivir entre sí
+sin que esto genere algún tipo de conflicto lógico o de otra índole [@beall2000; @beall2001; @beall2006; @restall2020].
+
+La formulación contemporánea del pluralismo lógico no toma en cuenta los trabajos de McColl.
+Es a la luz de la propuesta de los pluralistas lógicos que interpretes de McColl e historiadores de la lógica
+realizaron la propuesta.
+
+Claro está que no es el objetivo de este trabajo el poder determinar si efectivamente McColl fue o no un pluralista,
+sino el poder ver si, considerando la propuesta de McColl, el lógico británico pudo ser quien desestimó la investigación de Peirce.
+
+<!-- Fundamentos en favor de McColl pluralista -->
+
+<!-- Fundamentos en contra de McColl pluralista -->
+
 <!-- Influencia de McColl en Peirce -->
+La influencia que pudo tener McColl en Peirce no parece ser muy profunda.
+Como bien destaca Peirce, el lógico británico ve de una manera diferente a la lógica.
+[TODO: buscar referencia de las cartas de Peirce a McColl]
+Según Peirce, McColl considera a la lógica como una herramienta para la solución de problemas,
+mientras que él la considera como una herramienta para el análisis.
+Esto puede verse muy claramente en su propuesta de los gráficos existenciales
+en los años donde ya se encontraba en comunicación con McColl.
+
+Una de las intenciones de los gráficos existenciales por parte de Peirce
+fue la de realizar un sistema lógico lo más icónico posible.
+Esto fue para poder realizar lo que @stenfled2007 denominó icnocidad operacional.
+Peirce consideraba que cuanto más icónica sea la lógica, mejor resultado en el análisis habrá.
+Lo importante para Peirce no era que el sistema pueda responder a problemas de la manera más simple posible,
+del modo más elegente, sino que el sistema sea lo más icónico para poder destacar su poder de análisis.
+Un ejemplo de esto puede ser la línea de identidad que en sí es un ícono, un índice y un símbolo a la vez,
+destacando su iconidad.
+[TODO: colocar cita donde habla acerca de la línea de identidad como icono, indice y símbolo.]
+
+McColl no tenía todas estas consideraciones de orden semiótico y de orden analítico.
+En sus trabajos promovia modos de resolver los problemas lógicos de la mejor manera posible,
+en el sentido de un matemático.
+En poder tratar de encontrar la solución más elegente al problema.
+Al enfocarse en la solución de problemas tiene sentido que
+proponga sistemas alternativos a la lógica clásica de ese momento.
 
 En conclusión, no hay registro certero que haya sido McColl quien niegue a Peirce
 ni tampoco que haya contribuido a Peirce en generar las hipótesis de lógica no aristotélica.
-Esto no quita que ambos se llevaron muy bien
-y se respetaban como colegas.
+Esto no quita que ambos se llevaron una amistad fructífera,
+un respeto mutuo que iba más allá de la cordialidad entre colegas.
 
 ## Vasiliev y Peirce
 <!-- Mostrar brevemente las ideas de Vasiliev y cómo se originaron en base a las ideas de Peirce -->
