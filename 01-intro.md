@@ -236,6 +236,20 @@ que McColl fue el primero en proponer el pluralismo lógico.
 
 ## Hugh McColl y Peirce
 <!-- Breve reseña de quien fue McColl. -->
+Hugh McColl nace en Escocia en 1837, fue el menor de sus 5 hermanos.
+Desde 1858 ejercició la docencia en escuelas de varias maneras hasta que en 1865 se muda a Boulogne sur Mer en Francia.
+Los interpretes consideran que los motivos de la mudanza fueron económicos.
+Posiblemente la elección del lugar se haya debido al buen momento que estaba pasando.
+A pesar de las dificultades económicas, pudo titularse con un BA en Matemáticas de la Univerdad de Londres en 1876.
+Tuvo en su vida dos esposas, de la cual la primera muere después de una larga enfermedad en 1884
+y esto es comentado por McColl en 1883 en la carta que le dirige a Peirce
+donde le cuenta las dificultades que está teniendo para sostener a su esposa y su familia.
+
+Contribuyo con artículos y libros acerca de la lógica desde 1865 y llegó a ser un gran interlocutor para
+Bertrand Russell con quien discutió acerca de la noción de implicación, existencia y proposición en lógica.
+Christine Ladd-Franklin le tuvo mucha estima profesional reconociendo su trabajo
+cuando la mayoría de los lógicos contemporáneos de su época no le tenían la misma estima.
+
 <!-- La discusión entre el pluralismo o no de él. -->
 *Scholars* de la historia de la lógica han discutido el rol de McColl como lógico en general
 y como propulsor del estudio de sistemas lógicos que van más allá de la lógica clásica,
@@ -253,8 +267,9 @@ realizaron la propuesta.
 Claro está que no es el objetivo de este trabajo el poder determinar si efectivamente McColl fue o no un pluralista,
 sino el poder ver si, considerando la propuesta de McColl, el lógico británico pudo ser quien desestimó la investigación de Peirce.
 
-Los principales aportes de McColl se encuentran en la revista Mind alrededor de la primera década de 1900
-y en su libro de 1906.
+<!-- Los principales aportes de McColl se encuentran en la revista Mind alrededor de la primera década de 1900 -->
+<!-- y en su libro de 1906. -->
+
 <!-- Fundamentos en favor de McColl pluralista -->
 McColl puede ser considerado pluralista por varios cuestionamientos a algunas nociones fundamentales de la lógica clásica:
 la noción de implicación, la noción de existencia, la defensa de las modalidades de necesidad y posibilidad, su noción de proposición,
@@ -264,7 +279,24 @@ Otros como @rahman2008 consideran que incluso propuso varios sistemas de lógica
 conexivos, relevantes, lógica probabilisticas.
 Considerado como uno de los primeros convencionalistas e intrumentalistas en lógica [@rahman2008, 534].
 
-Aunque se puede decir que su aporte más discutido fue el de considerar que
+En el sentido del convencionalismo y de intrumentalismo, Rahman [-@rahman2008, 540] consideran
+que el lenguaje formal de McColl depende del contexto,
+por lo que las notaciones formales dependen de aquello que se quiera formalizar.
+^[Esto puede verse en la siguiente cita:
+
+> Hay dos principios rectores que separan mi sistema simbólico de los otros.
+El primero es el principio de que no hay nada sagrado o eterno acerca de los símbolos;
+que todas las convenciones simbólicas pueden ser alteradas cuando la conveniencia lo requiera,
+para poder adaptarse a las nuevas condiciones o a una nueva clase de problemas [...].
+El segundo principio que separa mi sistema lógico de los otros es el principio
+de que un enunciado o proposición completa es la real unidad de todo razonamiento. [@mccoll1906, 1-2]]
+
+Aunque algunos podrían considerar que puede haber algún puente con Peirce,
+ya que se parece un poco a tratar de encontrar la mejor notación para cada caso,
+y con ello, ver si lo mejor una lógica simbólica o una lógica diagramática,
+McColl no consideró el carácter icónico dentro de su noción de lógica.
+
+Se puede decir que su aporte más discutido fue el de considerar que
 las proposiciones tengan los valores de certeza, imposibilidad, contingente, verdadero, falso [@mccoll1906].
 Esto fue ampliamente discutido por lógicos y matemáticos contemporáneos de su época
 como Russell, Jourdain y [TODO: buscar el último lógico] [@grattan-guinness1998; @grattan-guinness2011].
