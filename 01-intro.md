@@ -171,34 +171,34 @@ logic, nor would we say that it will  not be "worth looking into" the theory of
 a non-Aristotelian logic  "notwithstanding its falsity." [@carus1910, 158-159]
 -->
 
-> "'A mi no me pareció un estudio loco. Al contrario, quizás si hubisese continuado,
-habría llamado la ateción sobre ciertas características de la lógica que han sido pasadas por alto.
-Sin embargo, llegué a la conclusión que no vale la pena indagar esta línea de pensamiento.
-Para mostrar que clase de hipótesis falsas había analizado sus consecuencias,
-voy a mencionar aquella en que en vez de la forma necesaria de inferencia sea,
-como es, que de una forma A en cierta relación con B, y B en cierta relación con C,
-es necesario que se siga que A está en la misma relación que C,
-supongo, en un caso, que la naturaleza de la Razón sea tal que la forma fundamental de inferencia fuese,
-que A está en cierta relación con B y B está en cierta relación con C,
-por lo cual necesariamente se sigue que C se encuentra en la misma relación con A;
-y seguí otras modificaciones similares de la lógica.'
+> "'A mi no me pareció un estudio loco. Al contrario, quizás si hubiese continuado,
+> habría llamado la atención sobre ciertas características de la lógica que han sido pasadas por alto.
+> Sin embargo, llegué a la conclusión que no vale la pena indagar esta línea de pensamiento.
+> Para mostrar que clase de hipótesis falsas había analizado sus consecuencias,
+> voy a mencionar aquella en que en vez de la forma necesaria de inferencia sea,
+> como es, que de una forma A en cierta relación con B, y B en cierta relación con C,
+> es necesario que se siga que A está en la misma relación que C,
+> supongo, en un caso, que la naturaleza de la Razón sea tal que la forma fundamental de inferencia fuese,
+> que A está en cierta relación con B y B está en cierta relación con C,
+> por lo cual necesariamente se sigue que C se encuentra en la misma relación con A;
+> y seguí otras modificaciones similares de la lógica.'
 > 
 > Nosotros negamos
-'que A está en cierta relación con B y B está en cierta relación con C,
-por lo cual necesariamente se sigue que A se encuentra en la misma relación con C.'
-Este enunciado no es una inferencia necesaria de acuerdo a lo establecido por las reglas de la lógica,
-ni puede ser considerada Aristotélica.
-Si A establace una relación de primos con B, y B establece la misma relación con C,
-no es necesario que se siga que A es primo de C.
-O por tomar otro ejemplo. Si A tiene una relación con B tal que está 5 pies abajo de B,
-y B tiene la misma relación con C, no se sigue que A esté 5 pies abajo de C.
+> 'que A está en cierta relación con B y B está en cierta relación con C,
+> por lo cual necesariamente se sigue que A se encuentra en la misma relación con C.'
+> Este enunciado no es una inferencia necesaria de acuerdo a lo establecido por las reglas de la lógica,
+> ni puede ser considerada Aristotélica.
+> Si A establece una relación de primos con B, y B establece la misma relación con C,
+> no es necesario que se siga que A es primo de C.
+> O por tomar otro ejemplo. Si A tiene una relación con B tal que está 5 pies abajo de B,
+> y B tiene la misma relación con C, no se sigue que A esté 5 pies abajo de C.
 > 
 > No nos aventuramos a discutir el substituto no aristotélico,
-porque no estamos seguros de haber comprendido el significado que el señor Peirce intenta comunicar.
+> porque no estamos seguros de haber comprendido el significado que el señor Peirce intenta comunicar.
 > 
 > Añadimos que nunca usamos la palabra 'lunático' en conexión con la lógica no aristotélica,
-ni diríamos que no 'valdría la pena indagar' la teoría de la lógica no aristotélica
-'no obstante su falsedad'." [@carus1910, 158-159]
+> ni diríamos que no 'valdría la pena indagar' la teoría de la lógica no aristotélica
+> 'no obstante su falsedad'." [@carus1910, 158-159]
 
 Aquí de manera explícita se puede ver que Peirce no considera como una locura
 que se investiguen lógicas que vayan en contra de los principios aristotélicos.
@@ -327,7 +327,7 @@ sus *scholars* toman para hablar de él como un pluralista lógica (W 4, 173, 18
 en ese momento solo había publicado *El cálculo de enunciados equivalentes* de 1878.
 
 <!-- Influencia de McColl en Peirce -->
-La influencia acerca de las lógicas no aristotélicas que pudo tener McColl en Peirce no parece tal.
+La supuesta influencia acerca de las lógicas no aristotélicas que pudo tener McColl en Peirce no parece tal.
 Como bien destaca Peirce, el lógico británico ve de una manera diferente a la lógica:
 
 > [...] mis estudios en lógica simbólica se han diferenciados de los tuyos en que mi objetivo
@@ -370,6 +370,36 @@ Esto no quita que ambos se llevaron una amistad fructífera,
 un respeto mutuo que iba más allá de la cordialidad entre colegas.
 
 ## Vasiliev y Peirce
+Dados a conocer los artículos de Carus conjuntamente con las cartas de Peirce,
+un logico ruso Nicolai Vasiliev (1880-1940) fue influenciado por estos
+y pudo lograr estipular una lógica no aristotélica.
+En sus trabajos se encuentra la presentación no formal de dicha lógica,
+denominada "lógica imaginaria".
+Esta lógica abandona el principio de no contradicción
+y el principio del tercer excluido.
+
+Uno de los puntapie más importantes como influencia de lo que quiso hacer con su lógica imaginaria
+fue el haberse encontrado a los 17 años con el artículo de Peirce sobre lógica de relativo @peirce1897.
+[@bashanov1992, 46]
+@bashanov1992 considera que Vasiliev se encontró con los textos de Peirce gracias a su padre,
+Aleksandr V. Vasiliev matemático quien escribió un libro sobre Lobachevky
+y que luego fue traducido en 1894 por G. B. Halsted y reseñado por el propio Peirce en 1895.
+Vasiliev padre supo de dicha reseña.
+
+Cabe aclarar que Vasiliev y Peirce bregaban por distintas perspectivas acerca de la lógica.
+El primero tenía una visión más psicologista de la misma,
+mientras que Peirce discute bastante con el psicologismo.
+^[TODO: colocar biblio acerca del anti-psicologismo de Peirce.]
+
+En su trabajo "Lógica y metalógica" de 1912-13 considera que sus ideas van en contra de lo que la tradición afirma,
+teniendo en consideración lo que dijo Peirce.
+Sin embargo, también Vasiliev es conciente de que
+si no fuese por las cartas que retoma @carus1910 no podría haber pensado acerca de
+encontrar una lógica no aristotélica.
+
+Indirectamente Peirce en sus cartas propulsó las consideraciones de Vasiliev,
+haciendo que cada vez la puerta para el estudio de lógicas no clásicas pueda darse de mejor manera
+y llegue a ser toda un área de desarrollo como lo es hoy en día.
 <!-- Mostrar brevemente las ideas de Vasiliev y cómo se originaron en base a las ideas de Peirce -->
 
 ## Conclusion
