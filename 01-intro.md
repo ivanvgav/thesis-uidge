@@ -403,6 +403,47 @@ y llegue a ser toda un área de desarrollo como lo es hoy en día.
 <!-- Mostrar brevemente las ideas de Vasiliev y cómo se originaron en base a las ideas de Peirce -->
 
 ## Conclusion
+Hemos partido de los textos de Paul Carus acerca de la naturaleza de las matemáticas
+para encontrarnos con la idea de que,
+al igual que las geometrías no euclideanas,
+la tradición de la lógica aristotélica no tenía nada de sagrado y se tenía que abrir camino a otras lógicas.
+Estas lógicas no aristotélicas no van en contra de la estrucutra analítica de la lógica aristotélico como si lo hizo la matematización de la lógica,
+sino que fue más alla: pretende disputar los principío lógicos establecidos por Aristóteles.
+Carus toma esta idea de las lógicas no aristotélicas basandose en una carta enviada por Peirce a Francis Russell de 1895.
+
+Los textos de Peirce pueden considerarse como bastantes clásicos teniendo en cuenta
+que desde su juventud realizó avances en la lógica de Boole teniendo consideraciones acerca de la silogistica aristotélica.
+Es decir, nunca descuido ni obvió a la silosgista.
+Todo lo contrario, siempre la tuvo muy presente.
+Podemos decir que recién en su madurez hay un intento de investigar más a fondo los principios de no contradicción y de tercer excluido.
+Esto puede observarse en sus borradores acerca de la lógica trivaluada
+y en algunos textos sobre modalidades donde analiza dichos principios.
+<!-- [TODO: Agregar las referencias de Lane, odland y turquette] -->
+Es por lo menos llamativo que en 1895 haya Peirce mismo haya planteado
+la posibildad de la investigación de lógicas no aristotélicas
+(y que efectivamente haya puesto manos en la obra,
+aunque hasta el momoento no se haya encontrado dichos borradores)
+siendo que años después se tomará enserio pero de un modo fructífero,
+al menos para sus estándares de publicación.
+siendo que años después se tomará enserio pero de un modo fructífero,
+al menos para sus estándares de publicación.
+
+Es interesante poder que dentro de la historia de la lógica y de varios de sus contribuyentes activos
+ideas que son parte de la investigación actual y novedosa dentro de la disciplina ya se encontraban esbozadas por varios lógicos de hace un siglo.
+Esto hace pensar que, de haberse escuchado o publicado de mejor manera estas ideas,
+no solo la de Peirce sino también las de McColl
+(más allá de la consideración de si fue o no el primer pluralista)
+los desarrollos no clásicos se hubiesen dado con más fuerzas desde antes,
+o al menos a la par de la conformación de la lógica como se dicta en cualquier curso de lógica universitario.
+Esto puede observarse en las ideas desplegadas por Vasiliev en Rusia,
+donde tuvo una fuerte impronta de la lógica de relaciones de Peirce
+y de las cartas de Peirce publicadas por Carus.
+Aunque Vasiliev solo planteó conceptualmente su lógica sin principio de no contradicción,
+puesto que no tenía intención de realizar su formalización,
+su ímpetu tuvo que ver con lo expuesto por Carus acerca de la lógicas no aristotélicas
+y con la apertura de la investigación expuesta por Peirce en las cartas
+y en su filosfía pragmatista.
+
 Consideramos que Peirce pero sobre todo Carus estarían bastante satisfechos con todos los avances
 realizados por los lógicos acerca de sistemas lógicos no clásicos.
 
