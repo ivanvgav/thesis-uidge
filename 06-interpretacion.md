@@ -13,7 +13,7 @@ para realizar la interpretación,
 más bien se va a hacer uso de la teoría semiótica de Peirce para comprender
 lo que la dialógica está logrando en términos lógicos.
 
-Como bien hemos marcado antes[TODO: colocar referencia al capitulo dentro de la tesis],
+Como bien hemos marcado antes @sec-intro-dialógica,
 la dialógica pretende realizar otra presentación de tipos de sistemas lógicos
 ha diferencia de la teoría de modelos de Tarski y a la teoría de la demostración.
 Si bien es plausible decir que la dialógica se encuentra más emparentada a la teoría de la demostración,
@@ -42,8 +42,8 @@ para dar cuenta de nociones lógicas
 en términos que no se tengan que usar los conceptos de la teoría de modelos o teoría de la demostración.
 Inlcuso si uno puedese pensar en los roles como personas y no roles,
 dar una interpretación semiótica de ellos quita la posibilidad de psicologizar al sistema lógico.
-Como vimos en el capitulo sobre la semiótica de Peirce[TODO: colocar referencia]
-la seiótica peirceana considera a un gran número de agentes con posibilidad de hacer semiosis,
+Como vimos en el capitulo sobre la semiótica de Peirce @sec-intro-semiotica
+la semiótica peirceana considera a un gran número de agentes con posibilidad de hacer semiosis,
 más allá de los seres humanos.
 En este sentido, es que la dialógica no puede ser considerada psicologista e incluso
 tiene una posible interpretación que quita todo el posible dejo de nociones que
@@ -96,10 +96,11 @@ Si uno se pone a realizar un recuento de todos los tipos de notación
 que utilizaron Lorenzen y Lorenz y la escuela de Lille se puede observar
 que la dialógica no ha sido presentada de una manera definitiva desde su concepción.
 Ha sido presentada con distintas notaciones
-[TODO: realizar un recuento bibliográfico de las notaciones desde su inicio,
-para eso ver a hodges2001, shoeder-heister2008 y rahman como las presentaciones de árboles]
+(desde un inicio de la dialógica analizado por @schroeder-heister2008,
+pasando por la presentación de @hodges2001 y la presentada por @clerbout2022
+que viene dada por el análisis de Rahman *et. al*.)
 incluso en buscar la manera de consolidar a la lógica dialógica como un modo propio de presentación de sistemas lógicos,
-se han acercado a los *tableaux* de Beth [TODO: agregar referencia] asociados a la teoría de la demostración.
+se han acercado a los *tableaux* de @beth1970 asociados a la teoría de la demostración.
 Debido a que nosotros hemos presentado a los sistemas dialógicos de la manera más estándar dentro de la literatura,
 las tablas dadas por Lorenzen y Lorenz con las modificaciones realizadas por la escuela de Lille,
 vamos a tomar a esa notación como la definitiva y la más propicia de analizar.
@@ -127,9 +128,9 @@ Por ejemplo, se podría encontrar ciertas similitudes con las tablas de verdad.
 ^[Cabe destacar como dato que las tablas de verdad fueron utilizadas por Peirce
 para llevar a cabo un análisis de todas las conectivas lógicas pero que no fue publicado,
 por ello se le atibuye la utlización de las tablas de verdad a Wittgenstein aunque este
-las presente años después de haberlas realizado el propio Peirce.[TODO: buscar refrencias de esto]]
+las presente años después de haberlas realizado el propio Peirce.^[Véase MS 431 circa 1902. Para poder ver un análisis de las tablas de verdad de Peirce véase @anellis2011 y @oostra2003.]
 @dejnozka2010 considera a las tablas como diagramas [TODO: Volver a leer para encontrar una justificación de ello]
-y, aunque Peirce no haya realizado una clasificación de diagramas, su definición de deducción [TODO: agregar referencia]
+y, aunque Peirce no haya realizado una clasificación de diagramas, su definición de deducción (CP 1.66)
 permite entender a la tabla como un diagrama.
 Es decir, entendida de una manera amplia y laxa la dialógica es en algún sentido una lógica diagramática.
 El dialógico trabaja con un diagrama (la tabla) realizando modificaciones a la misma
@@ -203,16 +204,13 @@ comprobar si una tesis tiene una estrategia ganadora,
 es válida o no la tiene.
 
 La idea de los roles es una idea de un poder semiotico importante.
-@peirce1906 ya lo vió presentando a los gráficos existenciales de esta manera.
-^[De hecho tan es así,
-que dentro de la literatura de la *game-theoretic semantics* se lo coloca como predecesesor de la disciplina
-[TODO: agregar referencia]]
+@peirce1906 ya lo vió presentando a los gráficos existenciales de esta manera. ^[De hecho tan es así, que dentro de la literatura de la *game-theoretic semantics* se lo coloca como predecesesor de la disciplina @hilpinen1982.]
 Aunque la intencionalidad de la dialógica no es estrictamente semiótica,
 Lorenzen y Lorenz introducen, a partir de la apelación a la teoría de juegos,
 la semiótica dentro de la lógica formal.
 Algo que Peirce buscaba de manera deliberada.
 Es claro que los roles *no* tienen porque considerarse como personas físicas,
-en eso los dialógicos son explícitos al igual que Peirce [TODO: buscar referencias].
+en eso los dialógicos son explícitos al igual que Peirce @peirce1906.
 Esto puede marcar muy bien que los procesos inferenciales son procesos semióticos.
 El juego entre el proponente y el oponente
 ^[También entre el grafista y el intérprete en los gráficos existenciales
@@ -319,10 +317,9 @@ el universo del discurso donde surge el diálogo se permite que se afirme el ant
 el agente concede el antecedente por mor del argumento,
 por ejemplo para experimentación para ver hasta donde llega el agente que propone el condicional.
 Peirce hizo mucho hincapié en el condicional desde su juventud
--siendo parte de la *cognition series* [TODO: buscar referencias]-
+-siendo parte de la *cognition series* @peirce2012-
 en su época donde se desprende de la lógica de Boole como ser @peirce1880 y @peirce1885
-hasta en su madurez cuando habla del scroll y del doble corte en varios escritos de los gráficos existenciales.
-[TODO: buscar referencias]
+hasta en su madurez cuando habla del scroll y del doble corte en varios escritos de los gráficos existenciales. ^[Véase @thibaud1982 para una evalución de la evolución del paso algebraico al diagramático. También véase @legris2016 para el lugar de los gráficos existenciales dentro de la historia de la lógica.]
 Y en todos los análisis del condicional da cuenta sea por medio de lógica algebraica o por medio de lógica diagramática
 de lo que la dialógica está mostrando con la regla particular del condicional.
 
@@ -346,11 +343,11 @@ Es decir, es posible que esta interpretación dialógica no solo sea para consid
 sino también para otro tipo de relaciones dialógicas
 ^[Estamos pensando en el ejemplo de la relación entre un cliente y un servidor dentro de las ciencias de la computación.
 De hecho, hay trabajos relacionados con la lógica linear y la dialógica, la cual se usa para explicar la relación cliente servidor
-[TODO: Colocar referencias] por lo que también cabría un análisis semiótico en ese caso.]
+como ser el caso de la lógica linear @dicosmo2023, por lo que también cabría un análisis semiótico en ese caso.]
 expandiendo un poco el entendimiento de dichas relaciones.
 
 Quien postula una tesis es el proponente,
-el oponente se va a encargar de tirar abajo[Cambiar esta expresión] esa tesis.
+el oponente se va a encargar de tirar abajo[TODO: Cambiar esta expresión] esa tesis.
 Durante todo el diálogo los roles tienen, en última instacia,
 la finalidad la existencia (o inexistencia) de una estrategia ganadora.
 Recordemos que los diálogos pueden ser juegos infinitos,
@@ -358,7 +355,7 @@ por lo que las reglas estructurales buscan acortar dicha posibilidad al volverlo
 Desde la semiótica en general,
 y la semiótica peirceana en particular
 la cuestión de lo finito o infinito tiene sus particularidades.
-Autores como Eco [TODO: buscar referencias] se concentran en la semiosis infinita,
+Autores como @eco1997 se concentran en la semiosis infinita,
 el proceso semiótico por le cual cualquier signo viene dada de una cadena de interpretantes previas
 y este, a su vez, posiblita una cadena de intepretantes posteriores *posiblemente* infinitos.
 El diálogo dentro del proceso semiótico se encuentra acotado y limitado.
@@ -431,7 +428,7 @@ que se va a considerar para poder continuar con el diálogo principal
 ^[Esto puede observarse mucho en el sentido en que la diaĺólógica
 ha sido considerada para la teoría de la argumentación,
 donde los puntos que el orador y el auditorio tienen en común pueden cuestionarse.
-Para ver más a fondo acerca de la teoría de la argumentación y la dialógica véase @hodges2001; @hodges2006.]
+Para ver más a fondo acerca de la teoría de la argumentación y la dialógica véase @hodges2001; @krabbe2001.]
 (en este caso poder observar si la tesis del proponente es válida o no).
 Las acciones de los roles se encuentran delimitadas por el conjunto de todas esas reglas.
 
@@ -620,7 +617,7 @@ estos no pueden estipular ellos mismos otros propósitos dentro del marco del di
 siendo que no sean realmente agentes que realicen semiosis.
 
 El proponente y el oponente no pueden generar nuevos hábitos para realizar nuevos propósitos.
-Como bien remarca Peirce, [TODO: buscar referencia]
+Como bien remarca Peirce (W 6:208; CP 1.409 [1887-1889], W 8:179; CP 6.262 [1892]; RLT 241; CP 7.515 [1898])
 para que los agentes realicen semiosis lo que tienen que poseer es un meta-hábito:
 la capacidad de generar hábitos ellos mismos.
 Claramente ni $P$ ni $O$ como tampoco el grafista y el intérprete de los gráficos existenciales tienen esa capacidad.
@@ -630,7 +627,7 @@ de alguna manera, bajo la semiótica peircena,
 el proponente y el oponente son *quasi-mentes*.
 Es claro, como hemos visto en el capítulo acerca del pragmatismo de Peirce,
 que el concepto de mente de Peirce es un concepto bastante *sui generis* y amplio.
-^[Eso hace referencia en el apartado (TODO: agregar número en el momento)
+^[Eso hace referencia en el apartado @sec-mente-peirce
 sobre la noción de mente en Peirce]
 
 Lo destacable de todo esto es que,
@@ -648,7 +645,7 @@ el filósofo no poseía el aparato teórico de la teoría de juegos
 ni tenía cercana alguna de las bases que luego dieron a dicha teoría,
 se pueden realizar ciertas analogías con alguno de sus conceptos
 como ser el de hábito.
-Pietarinen [TODO: colocar referencias] sostiene que
+Pietarinen @pietarinen2003b sostiene que
 la noción de hábito peirceana es una clara base para la noción de estrategia ganadora en teoría de juegos
 y de cierta manera se anticipa a la misma.
 Llevando esto para la semiótica peirceana,
@@ -791,7 +788,7 @@ pero el resultado no se encuetra predeterminado de antemano,
 todo depende los movimientos que realicen los roles para alcanzar cada uno de sus objetivos.
 
 Solo a partir del diálogo es que se posibilita el proceso semiótico.
-Es por eso que Peirce habla en ciertos escritos acerca de que todo razonamiento es dialógico. [TODO: colocar referencia]
+Es por eso que Peirce habla en ciertos escritos acerca de que todo razonamiento es dialógico. (R 678)
 Si no hay un intercambio entre el agente y el ambiente 
 (en que puede haber o no otro agente)
 no puede haber proceso semiótico.
@@ -931,8 +928,7 @@ Cabe destacar que los procesos deductivos llevados a cabo por parte de la dialó
 Peirce realiza una distinción entre distintos tipos de deducción,
 unas que *no* apelan a ningún elemento externo de las premisas para demostrar la conclusión;
 otras que *si* apelan a elementos externos que van más allá de las premisas para demostrar la conclusión.
-Las primeras son denominadas deducciones corolariales, las segundas deducciones teoremáticas.
-[TODO: Agregar referencias]
+Las primeras son denominadas deducciones corolariales, las segundas deducciones teoremáticas.^[Véase NEM 4, 38.]
 En el caso de los diálogos no hay ningún elemento externo por lo que las demostraciones son corolariales.
 Sin embargo, el modo en que se encuentra definida cada una de las conectivas lógicas
 y los modos en que el juego dialógico se da,
@@ -982,7 +978,7 @@ es mucho más interesante poder tener un sistema lógico que conlleve una interp
 Si bien la dialógica no es un sistema lógico que no tenga una interpretación filosófica,
 Lorenzen y Lorenz tenian su propia filosofía y
 el primero como el fundador de la dialógica también tenía sus posturas filosóficas sobre los fundamentos de la matemáticas
-^[Véase @schoeder-heister2008],
+^[Véase @schroeder-heister2008]
 luego ello fue evolucionando hacia la denominada *escuela de Erlangen* con la idea de la reformación del lenguaje
 para poder tener más claridad sobre las disciplinas cientificas y en los discursos cotidianos.
 Todo este proceso es distinto al que propugnamos en este trabajo.
@@ -992,14 +988,13 @@ de lo que había comenzado Peirce con sus gráficos existenciales
 y en paralelo con el desarollo de la *game-theoretical semantics*.
 Los actuales referentes de la dialógica, la *escuela de Lille* han tomado un camino distinto al propuesto aquí.
 Han seguido con el trasfondo filosófico de la dialógica y han extendido,
-mejorando ante varias de las objeciones
-^[Como hemos visto en el capítulo de la dialógica. TODO: Agregar referencia].
+mejorando ante varias de las objeciones^[Como hemos visto en el capítulo de la dialógica. Véase @sec-intro-dialógica.]
 
 Consideramos que es sumamente provechoso añadir a la semiótica a la dialógica.
 Hay quienes pueden objetar esto diciendo que consideradas como dos teorías,
 son dos encuendres con finalidades distintas y que solo añadiría complejidad para poder analizar los sistemas lógicos.
 Nosotros nos encontramos en la antipodas de esta objeción.
-Como bien destacamos en la introducción [TODO: agregar la referencia de la intro.]
+Como bien destacamos en la introducción @sec-intro-intro
 tomamos la imagen de la *matrioshka* rusa para mostrar como a partir de encuadres distintos
 (pragmatismo peirceano, semiótica, dialógica)
 se puede entender mejor entender mejor y dar cuenta de la lógica diagramática de Peirce.
