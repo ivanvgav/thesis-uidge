@@ -2,6 +2,8 @@
 title: "Interpretación semiótica de la dialógica"
 bibliography: ./biblio.bib
 lang: es
+filters:
+  - parse-latex
 ---
 
 Dada ya toda la explicación del marco de la semiótica
@@ -107,17 +109,19 @@ vamos a tomar a esa notación como la definitiva y la más propicia de analizar.
 Decidimos esto ya que por un lado es la que introduce Lorenzen cuando comenzó a consolidadr a la dialógica,
 y por otro lado consideramos que es la más propicia para ser analizada semióticamente debido a ciertas particularidades.
 
-Como ya hemos visto en el capítulo acerca de la dialógica, un dialógo se representa de la siguiente manera:
+Como ya hemos visto en el capítulo acerca de la dialógica, un dialógo se representa de la siguiente manera^[TODO: Tengo que mejorar la vista de la tabla]:
 
+```{=latex}
 \begin{table}[]
 \begin{tabular}{|ccc|ccc|}
 \hline
-\multicolumn{3}{|c|}{\textbf{$O$}}                                  & \multicolumn{3}{c|}{\textbf{$P$}}                                                                           \\ \hline
-\multicolumn{1}{|c|}{}  & \multicolumn{1}{c|}{}               &     & \multicolumn{1}{c|}{}    & \multicolumn{1}{c|}{\$!(p \textbackslash{}land q) \textbackslash{}supset p)} & 0 \\ \hline
-\multicolumn{1}{|c|}{1} & \multicolumn{1}{c|}{$!(p \land q)$} & (0) & \multicolumn{1}{c|}{}    & \multicolumn{1}{c|}{$!p$}                                                    & 4 \\ \hline
-\multicolumn{1}{|c|}{3} & \multicolumn{1}{c|}{$!p$}           &     & \multicolumn{1}{c|}{(1)} & \multicolumn{1}{c|}{$? L^{\^}$}                                              & 2 \\ \hline
+\multicolumn{3}{|c|}{\textbf{$O$}}                                  & \multicolumn{3}{c|}{\textbf{$P$}}                                             \\ \hline
+\multicolumn{1}{|c|}{}  & \multicolumn{1}{c|}{}               &     & \multicolumn{1}{c|}{}    & \multicolumn{1}{c|}{$!(p \land q) \supset p)$} & 0 \\ \hline
+\multicolumn{1}{|c|}{1} & \multicolumn{1}{c|}{$!(p \land q)$} & (0) & \multicolumn{1}{c|}{}    & \multicolumn{1}{c|}{$!p$}                      & 4 \\ \hline
+\multicolumn{1}{|c|}{3} & \multicolumn{1}{c|}{$!p$}           &     & \multicolumn{1}{c|}{(1)} & \multicolumn{1}{c|}{$? L^{\land}$}             & 2 \\ \hline
 \end{tabular}
 \end{table}
+```
 <!-- [TODO: Insertar algún dialógo más o menos complejo para poder analizarlo completamente. -->
 <!-- Indagar si se puede presentar de alguna manera en que el latex lo considere no una imagen -->
 <!-- sino por ejemplo un svg] -->
@@ -888,12 +892,12 @@ poner en énfasis que se ajusta a la definición de deducción de Peirce -->
 A su vez, que el diagrama dialógico permita mostrar los movimientos por los cuales se llegan a estrategias ganadoras (o no)
 condice de manera muy clara con la definición de deducción de Peirce:
 
-> Deduction is that mode of reasoning which examines the state of things
-> asserted in the premisses, forms a diagram of that state of things, perceives
-> in the parts of that diagram relations not explicitly mentioned in the
-> premisses, satisfies itself by mental experiments upon the diagram that these
-> relations would always subsist, or at least would do so in a certain
-> proportion of cases, and concludes their necessary, or probable, truth. (CP 1.66, circa 1896)
+> Deducción es el modo de razonamiento que examina el estado de cosas
+> afirmado en las premisas, forma un diagrama del estado de cosas, percibe
+> en las partes del diagrama las relaciones no explícitas mencionadas en las premisas,
+> se satisface el mismo mediante experimentos mentales sobre el diagrama acerca
+> estas relaciones que siempre subsistirán, o al menos lo harán en cierta proporción
+> de los casos, y concluye su necesaria, o probable, verdad. (CP 1.66, circa 1896)
 
 Hay un trabajo con el diagrama inicial,
 en este caso con la tesis propuesta por el proponente.
