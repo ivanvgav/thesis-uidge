@@ -91,8 +91,88 @@ Son las segundas aquellas que permiten que el diálogo se lleve a cabo y de mane
 Se puede decir que, en todo caso, las reglas estructurales una vez efectuadas por los agentes en cada uno de los diálogos,
 muestran la lógica internalizada de los mismos.
 
-<!--TODO: Dar la lectura peirceana de todo esto. -->
+Todos los puntos considerados por Woods pueden ser vistos desde una optica semiótica y peirceana.
 
+La finitud cognitiva se puede matizar a través de las consideraciones de lo estipulado por el joven Peirce en las *cognition series*
+y, por otro lado, por las noción de hábito.
+El joven Peirce posee un fuerte inferencialismo [@legg2003] respecto del modo en que trabaja nuestra cognición,
+por lo que aunque toda el contacto del agente está pasado en alguna medida por algún tipo de inferencia
+(sea la deductiva, la inductiva o la abductiva) no es que todo el tiempo el agente tenga conciencia de esto,
+sino que las inferencias que ya se encuentran enquilosadas en el son hábitos.
+Es el hábito en última instancia el que se encarga de que el agente pueda razonar de la misma manera ante situaciones similares.
+Aquí también se encuentra presente la cuestión temporal.
+A medida que el agente se vaya encontrando con nuevas 
+o similares situaciones va a poder llevar a cabo las mismas o nuevas inferencias.
+En este sentido también hay un limitante temporal para el agente visto desde un punto de vista peirceano y semiótico.
+Los hábitos en última instancia son acciones que realiza el agente,
+no siguen siendo procesos inferenciales que realizan en su mente,
+sino que son la decantación de dicho proceso.
+
+Respecto de la transparencia doxáctica también estaría de acuerdo con lo propuesto por Woods.
+La capacidad de los agentes humanos no es la de tener plena conciencia de todas sus creencias involucradas en la dialéctica.
+Siguiendo con la noción de hábito,
+la mayoría de nuestro hábitos son inconcientes
+y muchos de ellos se encuentran sustentados en creencias
+que no siempre sabemos que las sostenemos.
+
+En la mayoría de los siguientes puntos
+excepto en la cuestión de la falibilidad,
+es pertinente introducir una distinción acerca de la lógica.
+Dicha distinción es la de *logica docens/logica utens* [TODO: agregar referencias, Peirce, pietarinen y priest].
+Es menester introducirla debido a 
+que aquí ya entramos en cuestiones acerca de cómo usa la lógica los agentes dialógicos.
+La *logica docens* es la lógica considerada como teoría,
+mientras que la *logica utens* es la lógica que los seres humanos usamos en la praxis,
+sin ninguna consideración teórica o aprendizaje de la teoría lógica.
+^[Hay toda una discusión acerca de si la *docens* puede o no modificar a la *utens*,
+esto es un tema muy interesante pero no ayuda en los criterios que tiene que tener los agentes dialógicos
+por lo que no lo tomaremos en consideración, aunque reconocemos de su existencia.]
+
+En el caso del criterio acerca de si las creencias se tienen que encontrar clausuradas bajo consecuencia lógica,
+con la distinción entre *logica docens/logica utens* se desfigura bastante.
+Queda claro que no todas las creencias pueden ser clausuradas por consecuencia lógica,
+puesto que los agentes también hacen uso de una *logica utens* que puede que no tenga nada que ver con la *logica docens*.
+Claro esta que en los diálogos los movimiento propiciados son dados por las reglas particulares en base a las reglas estrucuturales,
+pero si consideramos a los agentes como seres humanos
+(supuesto aceptado por @woods1988)
+no todas sus creencias fueron introducidas por medio de juegos dialógicos,
+por lo que en algun sentido la *logica utens* fue utilizada.
+Así, no todas las creencias del agente tienen que estar clausuradas por consecuencia lógica,
+tendría que haber sido un experto en lógica desde su nacimiento,
+cuando claramente esto no puede ser posible.
+
+Si tomamos lo anterior, tampoco podemos suponer una consistencia perfecta entre las creencias de los agentes.
+Muchas de las creencias que fueron tomadas haciendo uso de la *logica utens* no tienen que ser correctas
+e incluso pueden ser inconsistentes con aquellas tomadas a partir de la *logica docens*.
+Incluso el agente puede dar cuenta de dicha inconsistencia,
+pero puede tener un hábito tal que por más que sea conciente de dicha inconsistencia
+no actue de manera consistente con sus creencias.
+
+Acerca de la lógica internalizada,
+habiendo realizado la distinción conceptuales de las lógicas,
+queda más claro que también nos apoyamos en lo sostenido por Woods,
+pero aquí damos una respuesta un poco más claro
+(aunque sigue siendo algo vaga)
+respecto de qué lógica se encuentra internalizada en los agentes.
+La lógica internalizada es, en última instancia, la *logica utens* de cada uno de los agentes.
+Es posible que ellos puedan identificar o justificar sus creencias a partir de la *logica docens*,
+pero esto no quiere decir que la tengan internalizada.
+Simplemente hacen uso de la teoría para poder explicitar,
+de la mejor manera posible,
+cómo fue su proceso inferencial.
+En este sentido, la dialógica permite ver esos moviemintos,
+aunque se encuentre dentro de la *logica docens*.
+
+Con todo esto, puede considerarse un corolario de lo anterior como también un supuesto.
+Siendo un corolario de la distinción entre *docens/utens*
+debido a que puede ser que muchas veces la *utens* lleva por caminos poco válidos,
+y al ser consiente de ello se puedan revisar las creencias y los hábitos que se desprenden de ellas.
+Siendo un supuesto ya que si los agentes son seres humanos tienden al error,
+se lo puede observar empiricamente e históricamente.
+El ser humano tiene todas las capacidades y habilidades ideales de racionalidad,
+sino que es mediante el error que puede crecer en dichas habilidades y mejor.
+Para ello necesita indefectiblemente del reconocimiento del error y de la apertura al mismo,
+es decir de tener algún grado de falibilidad.
 <!-- TODO: Mostrar los criterios y características mínimas de la biosemiótica kull2009 -->
 
 <!--TODO: compaginar todo esto para dar cuenta del agente que estoy tratando de teorizar -->
