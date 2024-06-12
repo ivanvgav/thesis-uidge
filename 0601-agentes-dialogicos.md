@@ -173,6 +173,72 @@ El ser humano tiene todas las capacidades y habilidades ideales de racionalidad,
 sino que es mediante el error que puede crecer en dichas habilidades y mejor.
 Para ello necesita indefectiblemente del reconocimiento del error y de la apertura al mismo,
 es decir de tener algún grado de falibilidad.
+
 <!-- TODO: Mostrar los criterios y características mínimas de la biosemiótica kull2009 -->
+
+Si nos preguntamos por quiénes pueden ser los agentes dialógicos,
+hasta donde hemos visto nos hemos enfocado en los seres humanos.
+Pero la semiótica peirceana es mucho más amplia.
+Puede comprender más que los seres humanos.
+Si uno le preguntarse a Peirce quienes son capaces de realizar semiosis,
+el filósofo de Harvard respondería con una enumeración de muchas entidades,
+incluso el universo mismo [TODO: buscar cita sobre universo y cristales semióticos].
+
+En este sentido surge la biosemiótica,
+como un *corpus* teórico que une la biología y la semiótica.
+@kull2009 es un muy buen trabajo para ver 
+cuáles son los postulados principales de la biosemiótica.
+Nosotros no realizaremos una disquisición acerca de esta disciplina.
+Más bien vamos a tomar algunos criterios y características que tienen que tener
+los agentes semióticos para poder ser capaces de tener habilidades y capacidades biosemióticas.
+
+Dentro de los postulados principales de la biosemiótica dados por @kull2009
+uno de ellos determina algunas de las capacidades y características de los agentes
+para hacer semiosis.
+
+Antes de poder determinar lo necesario para el agente es importante definir
+quienes son capaces de dicha agencia: los organismos.
+
+> [...] un organismo es un proceso interpretativo de un signo que puede ser
+> descrito como un proceso de producción de signo auto referencial recursivo,
+> dependiente de o influenciado por algunos factores externos que se encuentren
+> presentes en su ambiente. [@kull2009, 171]
+
+Lo clave para los biosemióticos es que el organismo nunca está aislado,
+sino que el organismo es él y su ambiente.
+Esto tiene que darse de esta manera ya que los procesos semióticos
+son procesos que se dan entre organismos que no son ni humanos ni de gran tamaño,
+los biosemióticos incluso consideran los organismos que estudia la biología molecular.
+
+Dicho esto, las caracterísiticas que deben tener los organismos son las siguientes [@kull2009, 171-172]:
+
+1. Agencia. Es decir, que el agente tiene que tener comportamientamientos
+   que estén direccionado hacia algún fin.
+1. Normatividad. Es decir, el proceso semiótico tiene en algún sentido
+   una propiedad de normatividad (entendida amplicamente).
+   Esto lleva a que el error pueda ser representado como también las consecuencias del mismo.
+   Para los biosemióticos los procesos semióticos en tanto sirven (o fallan)
+   para ser considerados como una función, constituye una norma.
+1. Teleo-funcionalidad. La semiosis siempre se encuentra encarnada en un proceso
+   que posee un fin direccionado. Por lo cual se puede evaluar si una interpretación
+   alcanzó o no la finalidad postulada.
+1. Generación de forma. Es decir, el organismo tiene que tener una organización sistémica
+   que es responsable de interpretar la función semiótica del signo.
+1. Diferenciación del signo vehículo de la dinámica del proceso recíproco de generación de forma.
+   Es decir, el signo que se produce tiene que ser aislado de sus restricciones y
+   que hacen que sea capaz de generar la repetición del proceso.
+1. Categorización. Es decir como la repetición del signo nunca es 100% idéntico físicamente,
+   por lo que es necesario tener en cuenta la distinción *token/type*,
+   es necesaria la noción de *type*.
+1. Herencia de relaciones. Los biosemióticos colocan como ejemplo de esto
+   a la herencia genética como una de las formas más básicas de la semiosis.
+
+Vistas todas estas propiedades las más relevantes y que fuertemente relación con lo dialógico
+son las tres primeras (agencia, normatividad y teleo-funcionalidad) y la categorización.
+Las tres primeras tienen que ver con la finalidad de ambos agentes.
+La dialógica tiene una finalidad de determinar la validez de la tesis propuesta por el proponente.
+Hay un *telos* bien definido.
+
+<!-- TODO: seguir mejor con todos estos criterios y con las características -->
 
 <!--TODO: compaginar todo esto para dar cuenta del agente que estoy tratando de teorizar -->
