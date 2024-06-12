@@ -63,7 +63,8 @@ la memoria y a la comparación y revisión de creencias [@woods1988, 402].
 
 Otros de los aspectos a considerar es la falibidad que tienen los agentes al momento de realizar el diálogo.
 El nivel de fabilidad un poco se encuentra dado por todas las otras cracterísticas que hemos analizado ya,
-pero por otra parte también el agente no tiene que ser capaz de aceptar la paradoja del prefacio [@makinson1965]^[TODO: estipular la paradoja de manera sencilla.]
+pero por otra parte también el agente no tiene que ser capaz de aceptar la paradoja del prefacio [@makinson1965]
+^[TODO: estipular la paradoja de manera sencilla.]
 ya que Woods la considera poco factible empíricamente, más bien simplemente un problema de teoría lógica
 que casi nunca sucede con respecto a agentes humanos.
 Por lo que es inadmisible dialecticamente restringir la racionalidad del agente por medio de la paradoja del prefacio [@woods1988, 403].
