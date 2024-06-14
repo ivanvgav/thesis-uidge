@@ -10,7 +10,7 @@ Habiendo definido los elementos básicos de la lógica dialógica.
 Lo primero que se puede cuestionar conceptualmente son las nociones mismas de los roles.
 Debido a las consideraciones constructivistas para los diálogos,
 uno puede pensar que los roles tienen que considerarse como agentes humanos.
-Es decir, el proponente $(P)$ y el oponente ($O$) deben tener criterios
+Es decir, el proponente ($P$) y el oponente ($O$) deben tener criterios
 y caracterísiticas epistémicas y lógicas similares a los agentes humanos.
 Quien se cuestiona esto es @woods1988.
 Para el autor su propuesta es considerar a los agentes claramente como humanos.
@@ -239,7 +239,62 @@ son las tres primeras (agencia, normatividad y teleo-funcionalidad) y la categor
 Las tres primeras tienen que ver con la finalidad de ambos agentes.
 La dialógica tiene una finalidad de determinar la validez de la tesis propuesta por el proponente.
 Hay un *telos* bien definido.
+Esto es de suma importancia para poder encontrar alguna relación posible entre estos dos ámbitos.
+La dialógica siempre contó con este propósito desde que Lorenzen la estipuló,
+no es una interpretación dada por nosotros
+para que encaje de mejor manera con la semiótica peirceana ni con la biosemiótica.
+
+En todo caso también se puede observar que la característica de normatividad
+y la de la generación de la forma está hablando a un nivel de escala mucho más pequeño
+de la falibilidad del organismo.
+El organismo al no interpretar bien un signo puede fallar en su *telos*,
+lo cual puede ser más o menos catastrófico,
+pero también otorga una manera de que el organismo pueda no volver a realizar dicha interpretación.
 
 <!-- TODO: seguir mejor con todos estos criterios y con las características -->
+Una posible objeción a todo esto podría ser aquella que tira por tierra
+la propuesta de expandir las condiciones para ser agente dialógico
+puesto que solo los seres humanos son los capaces se poder llevar diálogos.
+
+Una posible respuesta a esto es considerar que varios intercambios de información
+se pueden considerar de una manera dialógica.
+Esto es lo que hacen respecto de la presentación de la lógica linear en términos dialógicos.
+[TODO: agregar referencia para la lógica linear dialógica]
+En el caso de la lógica linear la interacción dialógica se encuentra realizada entre un servidor y un cliente.
+Ahora bien quien objeta nuestra postura puede contraargumentar sostienido
+que la relación servidor-cliente no es una relación en la que haya semiosis.
+Si le concedemos esta replica no hace que nuestro argumento caiga,
+sino que también puede mostrar dos cosas.
+Por un lado, la relación entre servidor y cliente es una relación de *cuasi-semiosis*
+y por otro lado, el sistema dialógico es flexible como para poder considerar no solo
+sistemas semióticos sino también aquellos que no son semióticos *stricto sensu*.
+Es decir, conceder la replica del objetor no es un error, sino más bien una característica del sistema dialógico
+y de las consideraciones semióticas acerca del mismo.
+^[No es una cuestión de este trabajo el indagar explícitamente en esta relación
+y en sus consideraciones semióticas.
+Simplemente lo marcamos como un ejemplo.
+Queda la situación abierta para poder ser investigada y teorizada
+si en el caso de la relación dialógica linear entre servidor-cliente hay o no una semiosis,
+o mejor dicho qué grado de semiosis.]
 
 <!--TODO: compaginar todo esto para dar cuenta del agente que estoy tratando de teorizar -->
+
+Vale la aclaración acerca de que no estamos diciendo,
+como afirma los biosemióticos respecto de la semiosis,
+que todos los seres vivos son capaces de realizar dialogos
+como los presentados por Lorenzen y Lorenz o por la escuela de Lille.
+Lo que deseamos mostrar aqui son algunas de las condiciones mínimas
+que tienen que tener los agentes para poder llegar a realizar un diálogo.
+El que puedan ser capaces de realizar un diálogo implica muchas de las condiciones estipuladas por la biosemiótica,
+que son básicas (o previas) a las condiciones planteadas por Woods para los seres humanos.
+
+Peirce mismo consideró que los roles de sus gráficos existenciales no se tenían
+que tomar exáctamente como dos "personas", podían serlo pero no era algo necesario.
+El grafista y el interprete podrían ser una misma persona cumpliendo los dos roles o
+dos mentes. [TODO: Colocar cita de exacta de @peirce1906.]
+La noción de mente ya la hemos visto en otro capítulo {#cap1-sec-mente}.
+Es una noción muy amplia la cual también lleva a pensar en lo propuesto por los biosemióticos.
+Así como los biosemióticos afirman que muchas de las acciones a nivel celular
+tienen una forma semejante a la de la inferencia,
+también se puede afirmar que posibles acciones también tienen la forma de un diálogo.
+Más específicamente la conformación de los gráficos existenciales.
