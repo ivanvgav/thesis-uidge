@@ -64,7 +64,19 @@ la memoria y a la comparación y revisión de creencias [@woods1988, 402].
 Otros de los aspectos a considerar es la falibidad que tienen los agentes al momento de realizar el diálogo.
 El nivel de fabilidad un poco se encuentra dado por todas las otras cracterísticas que hemos analizado ya,
 pero por otra parte también el agente no tiene que ser capaz de aceptar la paradoja del prefacio [@makinson1965]
-^[TODO: estipular la paradoja de manera sencilla.]
+^[La paradoja muestra que puede ser racional aceptar creencias incompatibles entre sí.
+
+En pocas palabras la paradoja puede ser dicha de la siguiente manera:
+
+Es costumbre que en los libros técnicos o académicos que el/los autores coloquen en los prefacios de sus libros
+"cualquier error que aparezcan son responsabilidad del autor (autores)",
+incluso sostener que los errores que haya en el libro son solo de él (ellos).
+Si el libro ha sido revisado por quien/quienes lo escribieron y también por los revisores y editores,
+se supone que todas las aseveraciones del texto son verdaderas.
+Sin embargo, dada la experiencia siempre puede aparecer algún error en el texto.
+Por lo que hay buenas razones para sostener que al menos una asevearción en el libro no es verdadera.
+Y aquí nos encontramos con dos proposiciones que son incompatibles.
+De allí la paradoja del prefacio.]
 ya que Woods la considera poco factible empíricamente, más bien simplemente un problema de teoría lógica
 que casi nunca sucede con respecto a agentes humanos.
 Por lo que es inadmisible dialecticamente restringir la racionalidad del agente por medio de la paradoja del prefacio [@woods1988, 403].
@@ -119,7 +131,7 @@ que no siempre sabemos que las sostenemos.
 En la mayoría de los siguientes puntos
 excepto en la cuestión de la falibilidad,
 es pertinente introducir una distinción acerca de la lógica.
-Dicha distinción es la de *logica docens/logica utens* [TODO: agregar referencias, Peirce, pietarinen y priest].
+Dicha distinción es la de *logica docens/logica utens* (CP 2.204-205) [pietarinen2005 y priest2014].
 Es menester introducirla debido a 
 que aquí ya entramos en cuestiones acerca de cómo usa la lógica los agentes dialógicos.
 La *logica docens* es la lógica considerada como teoría,
@@ -183,7 +195,7 @@ Pero la semiótica peirceana es mucho más amplia.
 Puede comprender más que los seres humanos.
 Si uno le preguntarse a Peirce quienes son capaces de realizar semiosis,
 el filósofo de Harvard respondería con una enumeración de muchas entidades,
-incluso el universo mismo [TODO: buscar cita sobre universo y cristales semióticos].
+incluso el universo mismo [CP 5.448 y peirce1906, 492].
 
 En este sentido surge la biosemiótica,
 como un *corpus* teórico que une la biología y la semiótica.
@@ -259,7 +271,7 @@ puesto que solo los seres humanos son los capaces se poder llevar diálogos.
 Una posible respuesta a esto es considerar que varios intercambios de información
 se pueden considerar de una manera dialógica.
 Esto es lo que hacen respecto de la presentación de la lógica linear en términos dialógicos.
-[TODO: agregar referencia para la lógica linear dialógica]
+[blass1992]
 En el caso de la lógica linear la interacción dialógica se encuentra realizada entre un servidor y un cliente.
 Ahora bien quien objeta nuestra postura puede contraargumentar sostienido
 que la relación servidor-cliente no es una relación en la que haya semiosis.
@@ -287,11 +299,21 @@ Lo que deseamos mostrar aqui son algunas de las condiciones mínimas
 que tienen que tener los agentes para poder llegar a realizar un diálogo.
 El que puedan ser capaces de realizar un diálogo implica muchas de las condiciones estipuladas por la biosemiótica,
 que son básicas (o previas) a las condiciones planteadas por Woods para los seres humanos.
+Profundizando en esto, hay que observar que quienes se preguntaron por las condiciones de los agentes
+de los diálogos son el grupo que llevó a la dialógica al campo de la teoría de la argumentación:
+como ser Woods y Krabbe [clerbout2022].
+La dialógica en sus orígenes no propone quienes ni como tienen que ser los agentes de los diálogos,
+no es algo en lo que estén interesados,
+aunque es posible afirmar que dada los movimientos posteriores de Lorenzen y Lorenz
+dentro de la escuela de Erlanger constructivista,
+donde se intentaba una reconstrucción del lenguaje para una mejor comprensión
+de todas las disciplinas humanas estarían de acuerdo con lo propuesto
+por Woods y lo ampliado aquí también.
 
-Peirce mismo consideró que los roles de sus gráficos existenciales no se tenían
+A su vez, Peirce mismo consideró que los roles de sus gráficos existenciales no se tenían
 que tomar exáctamente como dos "personas", podían serlo pero no era algo necesario.
 El grafista y el interprete podrían ser una misma persona cumpliendo los dos roles o
-dos mentes. [TODO: Colocar cita de exacta de @peirce1906.]
+dos mentes. [@peirce1906]
 La noción de mente ya la hemos visto en otro capítulo {#cap1-sec-mente}.
 Es una noción muy amplia la cual también lleva a pensar en lo propuesto por los biosemióticos.
 Así como los biosemióticos afirman que muchas de las acciones a nivel celular
