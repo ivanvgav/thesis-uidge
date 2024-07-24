@@ -39,3 +39,16 @@ Esto es simplemente es una pregunta a ver.
 Uno puede verlo en eso es los ejemplos de la abducción.
 A veces parece ser que son cotidianos y
 otras veces realmente parecen ser extraordinarios.
+
+# Sobre Atkins2024
+
+Algo que destaca Atkins como partes de la infencia en Peirce es el 'leading principle'.
+Sobre todo las posible confuciones que se tiene respecto de la definición del mismo.
+Algo que clarifica muy bien es entre 'guiding principle' 
+(el principio por el cual se guia el procedimiento de la inferencia)
+y el 'leading principle' propiamente, que se expresa en una proposición.
+Esto es algo novedoso para mi puesto que es lo que hace que tenga forma todo lo dicho por parte de Peirce,
+y creo que puede contrarestar muchas de las objeciones que hacen los analíticos al tratar la inferencia
+como si fuese una cuestión de disposiciones y de hábitos,
+o de cómo expresar proposicionalmente esos hábitos y no caer en cuestiones de 
+problemas sobre le seguimiento de reglas o regresos al infinito.
