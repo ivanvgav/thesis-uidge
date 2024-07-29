@@ -29,7 +29,7 @@ la división entre reglas estructurales y particulares
 permite que la dialógica sea una teoría candidata para ser vista desde una óptica semiótica.
 Si bien es cierto que la teoría de modelos o la teoría de la demostración también pueden ser analizadas semióticamente,
 puesto que son teorías que trabajan con signos,
-no utilzan tan explícitamente nociones que *prima facie* uno puede asociar con la semiótica
+no utilizan tan explícitamente nociones que *prima facie* uno puede asociar con la semiótica
 como lo hace la dialógica.
 
 Se puede elevar una objeción a la presentación dialógica de la siguiente manera:
@@ -42,7 +42,7 @@ los roles del proponente ($P$) y ($O$) son considerados como construcciones teó
 para dar cuenta de nociones lógicas
 (como ser la validez)
 en términos que no se tengan que usar los conceptos de la teoría de modelos o teoría de la demostración.
-Inlcuso si uno puedese pensar en los roles como personas y no roles,
+Incluso si uno puede pensar en los roles como personas y no roles,
 dar una interpretación semiótica de ellos quita la posibilidad de psicologizar al sistema lógico.
 Como vimos en el capitulo sobre la semiótica de Peirce @sec-intro-semiotica
 la semiótica peirceana considera a un gran número de agentes con posibilidad de hacer semiosis,
@@ -70,13 +70,13 @@ Por otro lado, el poder dar una interpretación semiótica de la dialógica va a
 el capítulo siguiente:
 la traducción de los gráficos existenciales en términos dialógicos.
 Los gráficos existenciales tienen como base a la semiótica de Peirce.
-Recordemos que la noción de lógica de Peirce no es la noción contemporanea de lógica,
+Recordemos que la noción de lógica de Peirce no es la noción contemporánea de lógica,
 sino que se encuentra atravesada por su noción de semiótica.
 En este sentido es que se nos hará más fácil realizar y entender la formalización de los gráficos existenciales en diálogos.
 
 En este capítulo vamos a analizar las nociones fundamentales de los sistemas dialógicos en términos semióticos.
 La noción de diálogo; los ataques, cuestionamientos y defensas de los roles dentro del diálogo;
-las reglas particulares y estructurales serán intepretadas semióticamente.
+las reglas particulares y estructurales serán interpretadas semióticamente.
 Con todo esto pretendemos llegar a una interpretación tal que dado un diálogo formal
 este pueda ser entendido en clave semiótica.
 
@@ -106,7 +106,7 @@ se han acercado a los *tableaux* de @beth1970 asociados a la teoría de la demos
 Debido a que nosotros hemos presentado a los sistemas dialógicos de la manera más estándar dentro de la literatura,
 las tablas dadas por Lorenzen y Lorenz con las modificaciones realizadas por la escuela de Lille,
 vamos a tomar a esa notación como la definitiva y la más propicia de analizar.
-Decidimos esto ya que por un lado es la que introduce Lorenzen cuando comenzó a consolidadr a la dialógica,
+Decidimos esto ya que por un lado es la que introduce Lorenzen cuando comenzó a consolidar a la dialógica,
 y por otro lado consideramos que es la más propicia para ser analizada semióticamente debido a ciertas particularidades.
 
 Como ya hemos visto en el capítulo acerca de la dialógica, un dialógo se representa de la siguiente manera^[TODO: Tengo que mejorar la vista de la tabla]:
@@ -140,7 +140,7 @@ sino que se amplia mucho más.
 Por ejemplo, se podría encontrar ciertas similitudes con las tablas de verdad.
 ^[Cabe destacar como dato que las tablas de verdad fueron utilizadas por Peirce
 para llevar a cabo un análisis de todas las conectivas lógicas pero que no fue publicado,
-por ello se le atibuye la utlización de las tablas de verdad a Wittgenstein aunque este
+por ello se le atribuye la utilización de las tablas de verdad a Wittgenstein aunque este
 las presente años después de haberlas realizado el propio Peirce.^[Véase MS 431 circa 1902. Para poder ver un análisis de las tablas de verdad de Peirce véase @anellis2011 y @oostra2003.]
 @dejnozka2010 considera a las tablas como diagramas [TODO: Volver a leer para encontrar una justificación de ello]
 y, aunque Peirce no haya realizado una clasificación de diagramas, su definición de deducción (CP 1.66)
@@ -148,7 +148,7 @@ permite entender a la tabla como un diagrama.
 Es decir, entendida de una manera amplia y laxa la dialógica es en algún sentido una lógica diagramática.
 El dialógico trabaja con un diagrama (la tabla) realizando modificaciones a la misma
 y luego extrae ciertas conclusiones que, *prima facie*,
-no se encuentraban en el estado inicial del diagrama.
+no se encuentran en el estado inicial del diagrama.
 Recordemos que la tabla que se nos presenta como está arriba es la finalización de un proceso dialógico.
 Cuando el dialógico comienza con el juego entre el proponente y el oponente solo cuenta con la tesis,
 las reglas estructurales y las reglas particulares.
@@ -161,12 +161,12 @@ Son reglas que indican el comportamiento de las conectivas lógicas
 y de cómo se *debe* jugar el diálogo, respectivamente.
 Sin las reglas particulares el diálogo no puede ni siquiera surgir
 y sin las reglas estructurales el diálogo no tendría límites,
-haciendolo completamente trivial y sin propósito alguno.
+haciéndolo completamente trivial y sin propósito alguno.
 
 La idea de que el diálogo muestra una deducción es interesante.
-Comparemoslo con la idea de demostración *estandar* y con los gráficos existenciales.
+Comparemos con la idea de demostración *estándar* y con los gráficos existenciales.
 En la demostración tenemos una secuencia de proposiciones una debajo de la otra 
-que muestran como a partir de las premisas se llega a la conclusión justificandola
+que muestran como a partir de las premisas se llega a la conclusión justificándola
 a partir de axiomas y teoremas del sistema axiomático.
 El lógico puede hacer uso de los teoremas y de los axiomas sin necesidad de haberlos explicitado antes.
 Respecto a los gráficos existenciales,
@@ -180,7 +180,7 @@ El diagrama dialógico hace uso de las conectivas y de una secuencialidad pareci
 sus reglas (particulares y estructurales) tienen cierta similitud con las reglas de transformación
 debido a que indican cómo y cuando realizar tal movimiento para cada uno de los roles.
 Recordemos que los aspectos icónicos, indexicales y sibólicos son graduales.
-Por lo que podemos decir que respecto de la icnonididad operacional
+Por lo que podemos decir que respecto de la iconicidad operacional
 los gráficos existenciales se encuentran en el extremo de mayor iconicidad
 mientras que la demostración se encuentra en el otro extremo.
 En el medio de ellas se encuentra el diagrama dialógico.
@@ -206,7 +206,7 @@ Hay ciertas maneras de escribir demostraciones que también consideran estos dos
 mientras que en los gráficos existenciales no se suele hacer uso de esto.
 Peirce no propuso el uso de índices para indicar linealidad en los gráficos existenciales.
 De hecho, una de las características fundamentales de los gráficos es que 
-al considerar a la hoja de aseveración o a la hoja phémica un elemento del sistema lógico,
+al considerar a la hoja de aseveración o a la hoja *phémica* un elemento del sistema lógico,
 hay una espacialidad que no se considera ni en la demostración ni en la tabla dialógica.
 Estas dos últimas tienen restricciones espaciales de dónde y cómo tienen 
 que disponer de los signos para poder mostrar la validez de los argumentos.
@@ -216,8 +216,8 @@ En los roles se puede ver los movimientos explícitos de cómo uno puede llegar 
 comprobar si una tesis tiene una estrategia ganadora,
 es válida o no la tiene.
 
-La idea de los roles es una idea de un poder semiotico importante.
-@peirce1906 ya lo vió presentando a los gráficos existenciales de esta manera. ^[De hecho tan es así, que dentro de la literatura de la *game-theoretic semantics* se lo coloca como predecesesor de la disciplina @hilpinen1982.]
+La idea de los roles es una idea de un poder semiótico importante.
+@peirce1906 ya lo vió presentando a los gráficos existenciales de esta manera. ^[De hecho tan es así, que dentro de la literatura de la *game-theoretic semantics* se lo coloca como predecesor de la disciplina @hilpinen1982.]
 Aunque la intencionalidad de la dialógica no es estrictamente semiótica,
 Lorenzen y Lorenz introducen, a partir de la apelación a la teoría de juegos,
 la semiótica dentro de la lógica formal.
@@ -228,12 +228,12 @@ Esto puede marcar muy bien que los procesos inferenciales son procesos semiótic
 El juego entre el proponente y el oponente
 ^[También entre el grafista y el intérprete en los gráficos existenciales
 y entre el Yo y la Naturaleza en la *game-theoretic semantics*.]
-muestran un proceso de semiósis.
+muestran un proceso de semiosis.
 Entre los ataques y las defensas del proponente y el oponente se produce un proceso de semiosis.
 Ese desdoblamiento en roles es lo que permite trabajar al diagrama,
 sea que lo esté llevando a cabo una sola persona o un grupo de ellas.
 Se ha hablado mucho en la literatura acerca de las posturas del proponente y del oponente^[Para indagar en profundidad esto véase @novaes2020.],
-muchos han criticado la idea de que las acciones de los proponentes y oponenetes sean de ataque y defensa.
+muchos han criticado la idea de que las acciones de los proponentes y oponentes sean de ataque y defensa.
 Sin embargo las acciones de los roles no han sido vistas desde una perspectiva semiótica,
 ¿qué es un ataque, una respuesta, un cuestionamiento?
 Si bien las reglas particulares de cada uno de los sistemas dialógicos otorgan una respuesta a estas preguntas,

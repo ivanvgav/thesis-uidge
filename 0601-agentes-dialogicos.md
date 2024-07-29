@@ -195,7 +195,7 @@ Pero la semiótica peirceana es mucho más amplia.
 Puede comprender más que los seres humanos.
 Si uno le preguntarse a Peirce quienes son capaces de realizar semiosis,
 el filósofo de Harvard respondería con una enumeración de muchas entidades,
-incluso el universo mismo [CP 5.448 y peirce1906, 492].
+incluso el universo mismo [CP 5.448 y @peirce1906, 492].
 
 En este sentido surge la biosemiótica,
 como un *corpus* teórico que une la biología y la semiótica.
